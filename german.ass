@@ -1,0 +1,405 @@
+﻿[Script Info]
+Title: [Erai-raws] Deutsch
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,1
+Style: Internal,Arial,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+Style: Top,Arial,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0000,0000,0020,1
+Style: TypePlaceholder,Arial,19,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,4,1,8,0010,0010,0020,1
+Style: Epititel,Comic Sans MS,25,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0000,0000,0020,1
+Style: Internal Top,Arial,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,8,0000,0000,0020,0
+Style: Overlap,Arial,23,&H00F3EDE3,&H000000FF,&H00362B17,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.39,0:00:12.10,Default,Ema,0000,0000,0000,,Wunderbar! Jetzt haben wir\Nbeide unser Schulgeld bezahlt.
+Dialogue: 0,0:00:12.10,0:00:13.28,Default,Ema,0000,0000,0000,,Jetzt kann endlich …
+Dialogue: 0,0:00:14.19,0:00:18.64,Default,Nor,0000,0000,0000,,… unser neues Leben beginnen.\NHier an der Heldenakademie.
+Dialogue: 0,0:00:18.64,0:00:19.43,Default,Ema,0000,0000,0000,,Ja.
+Dialogue: 0,0:00:22.79,0:00:24.99,Default,Ema,0000,0000,0000,,Oh, Nor! Verbeug dich!
+Dialogue: 0,0:00:24.99,0:00:25.79,Default,Nor,0000,0000,0000,,Huch?
+Dialogue: 0,0:00:25.79,0:00:27.06,Default,Nor,0000,0000,0000,,Ja …
+Dialogue: 0,0:00:31.69,0:00:33.66,Default,Nor,0000,0000,0000,,Ist sie etwa auch eine Schülerin?
+Dialogue: 0,0:00:33.66,0:00:35.67,Default,Ema,0000,0000,0000,,Erinnerst du dich nicht an sie, Nor?
+Dialogue: 0,0:00:37.06,0:00:41.04,Default,Ema,0000,0000,0000,,Sie war auch bei der Prüfung dabei.\NMaria Fianna Albert.
+Dialogue: 0,0:00:42.62,0:00:46.01,Default,Ema,0000,0000,0000,,Sie ist die Tochter der\Nberühmten Herzogsfamilie Albert.
+Dialogue: 0,0:00:46.84,0:00:48.14,Default,Nor,0000,0000,0000,,Herzog …
+Dialogue: 0,0:00:48.70,0:00:50.89,Default,Nor,0000,0000,0000,,Adel allerhöchster Stufe?
+Dialogue: 0,0:00:50.89,0:00:53.84,Internal,Nor,0000,0000,0000,,Ich sollte mal heimlich nachschauen,\Nwas sie für ein Mensch ist.
+Dialogue: 0,0:01:00.88,0:01:03.02,Default,Ema,0000,0000,0000,,Nor? Was ist passiert?
+Dialogue: 0,0:01:04.07,0:01:04.96,Default,Nor,0000,0000,0000,,Das Mädchen …
+Dialogue: 0,0:01:05.61,0:01:07.81,Default,Nor,0000,0000,0000,,wurde verflucht.
+Dialogue: 0,0:01:07.81,0:01:11.93,Default,Nor,0000,0000,0000,,Mit einem Fluch, der sie an\Nihrem 16. Geburtstag töten wird.
+Dialogue: 0,0:02:45.01,0:02:52.02,Epititel,type,0000,0000,0000,,{\an1\fad(600,500)\blur1.2\pos(37,303)}„Mitschülerin mit Problemen“
+Dialogue: 0,0:02:54.55,0:02:55.32,Default,Nor,0000,0000,0000,,Hm?
+Dialogue: 0,0:02:58.47,0:03:01.69,Default,Nor,0000,0000,0000,,A-Alice? Du kommst mir heute\Nja schon wieder ziemlich nahe.
+Dialogue: 0,0:03:02.20,0:03:04.83,Default,Alice,0000,0000,0000,,Du gehst ja auch heute\Ndas erste Mal zur Schule, lieber Bruder.
+Dialogue: 0,0:03:04.83,0:03:05.66,Default,Nor,0000,0000,0000,,Hm?
+Dialogue: 0,0:03:07.63,0:03:11.09,Default,Alice,0000,0000,0000,,Ich glaube fest daran, dass du auf\Nder Heldenakademie Großartiges leisten wirst.
+Dialogue: 0,0:03:11.09,0:03:14.80,Default,Alice,0000,0000,0000,,Ich werde auch nächstes Jahr auf die Akademie\Ngehen, auch wenn ich dafür Blut spucken muss.
+Dialogue: 0,0:03:14.80,0:03:18.28,Default,Nor,0000,0000,0000,,Ohne Blut spucken wäre\Nauch in Ordnung. Aber danke.
+Dialogue: 0,0:03:19.51,0:03:21.36,Default,Alice,0000,0000,0000,,Natürlich, lieber Bruder.
+Dialogue: 0,0:03:22.86,0:03:24.49,Default,Nor,0000,0000,0000,,A-Alice?
+Dialogue: 0,0:03:25.19,0:03:29.86,Default,Elna,0000,0000,0000,,Es fühlt sich so an, als ob du in die Ferne\Nverschwinden würdest, wenn ich loslasse.
+Dialogue: 0,0:03:29.86,0:03:31.94,Default,Nor,0000,0000,0000,,Ich geh doch nur zur Schule.
+Dialogue: 0,0:03:32.78,0:03:35.69,Default,Vater,0000,0000,0000,,Wach auf! Mein Elite-Schüler, es ist Mor…
+Dialogue: 0,0:03:36.24,0:03:37.11,Default,Vater,0000,0000,0000,,…gen!
+Dialogue: 0,0:03:44.57,0:03:48.50,Default,Vater,0000,0000,0000,,Was soll ich als Vater\Nin einer solchen Situation tun?!
+Dialogue: 0,0:03:57.50,0:03:59.00,Default,Ema,0000,0000,0000,,Guten Morgen, Nor!
+Dialogue: 0,0:03:59.32,0:04:00.67,Default,Nor,0000,0000,0000,,Guten Morgen, Ema.
+Dialogue: 0,0:04:01.19,0:04:02.68,Default,Nor,0000,0000,0000,,Du bist ja schon morgens putzmunter.
+Dialogue: 0,0:04:02.90,0:04:04.73,Default,Ema,0000,0000,0000,,Na, heute ist doch unser erster Schultag.
+Dialogue: 0,0:04:04.73,0:04:08.85,Default,Ema,0000,0000,0000,,Das mit der Bibliothek lief ja schief.\NAlso strengen wir uns jetzt richtig an!
+Dialogue: 0,0:04:08.85,0:04:09.50,Default,Nor,0000,0000,0000,,Ja.
+Dialogue: 0,0:04:09.84,0:04:11.55,Default,Nor,0000,0000,0000,,Wir sind ja auch beide in Klasse S.
+Dialogue: 0,0:04:12.59,0:04:16.91,Default,Ema,0000,0000,0000,,Ähm … Machen wir noch\Nunsere morgendliche Begrüßung?
+Dialogue: 0,0:04:16.91,0:04:18.43,Default,Nor,0000,0000,0000,,J-Ja …
+Dialogue: 0,0:04:31.13,0:04:33.83,Default,Ema,0000,0000,0000,,Dadurch gewinnst du ja auch mehr LP …
+Dialogue: 0,0:04:33.87,0:04:37.33,TypePlaceholder,type,0000,0000,0000,,{\b1\fs22\bord1.4\an2\b1\shad1.7\c&HFFFFFF&\fad(500,0)\3c&H1B1B1B&\4c&H1B1B1B&\pos(467,124)}Nor Stalgia
+Dialogue: 0,0:04:38.71,0:04:39.93,Default,SchülerinBG1,0000,0000,0000,,Guten Morgen.
+Dialogue: 0,0:04:39.93,0:04:41.34,Default,SchülerBG,0000,0000,0000,,Guten Morgen.
+Dialogue: 0,0:04:41.63,0:04:43.21,Default,SchülerinBG2,0000,0000,0000,,Auf gute Zusammenarbeit.
+Dialogue: 0,0:04:44.71,0:04:47.77,Default,Ema,0000,0000,0000,,I-Irgendwie bin ich schon nervös.
+Dialogue: 0,0:04:47.77,0:04:48.60,Default,Nor,0000,0000,0000,,Ja …
+Dialogue: 0,0:04:49.28,0:04:53.72,Internal,Nor,0000,0000,0000,,Wir müssen am ersten Tag diese Abzeichen anstecken, um unseren Rang anzuzeigen.
+Dialogue: 0,0:04:53.72,0:04:56.71,Internal,Nor,0000,0000,0000,,Die Schule sagte eigentlich,\Ndass unser Rang keine Rolle spielen würde.
+Dialogue: 0,0:05:03.77,0:05:05.98,Default,EmaNor,0000,0000,0000,,G-Guten Morgen.
+Dialogue: 0,0:05:06.57,0:05:08.25,Default,Schüler1,0000,0000,0000,,Der Junge ist ein Ritter.
+Dialogue: 0,0:05:08.25,0:05:09.94,Default,Schülerin1,0000,0000,0000,,Also nur niederer Adel.
+Dialogue: 0,0:05:09.94,0:05:11.14,Default,Schüler2,0000,0000,0000,,Wir sollten ihn ignorieren.
+Dialogue: 0,0:05:13.10,0:05:17.04,Default,Allen,0000,0000,0000,,Auf gute Zusammenarbeit.\NIch bin Allen, Sohn der Familie Milanos.
+Dialogue: 0,0:05:17.45,0:05:21.26,Default,Allen,0000,0000,0000,,Du hast bestimmt schon von\Nder Familie Milanos gehört. Wir beraten den König.
+Dialogue: 0,0:05:21.71,0:05:23.59,Default,Ema,0000,0000,0000,,G-Guten Tag.
+Dialogue: 0,0:05:23.88,0:05:26.65,Default,Hjorth,0000,0000,0000,,Ich bin Hjorth,\NSohn der Familie Boyle.
+Dialogue: 0,0:05:26.65,0:05:28.80,Default,Hjorth,0000,0000,0000,,Oh, du bist echt nach meinem Geschmack!
+Dialogue: 0,0:05:29.05,0:05:32.77,Default,Kent,0000,0000,0000,,Ich bin Kent, Sohn der Familie Proix!\NWir sind die viertreichste Familie des Königreichs!
+Dialogue: 0,0:05:32.77,0:05:34.11,Default,Schüler3,0000,0000,0000,,Sie ist …
+Dialogue: 0,0:05:34.11,0:05:35.16,Default,Schülerin2,0000,0000,0000,,Wie bezaubernd.
+Dialogue: 0,0:05:35.16,0:05:37.42,Default,Schüler4,0000,0000,0000,,Sie ist ganz anders als der Kerl da.
+Dialogue: 0,0:05:37.42,0:05:39.05,Default,Schüler5,0000,0000,0000,,Diese Riesendinger …
+Dialogue: 0,0:05:39.05,0:05:42.41,Default,Lenore,0000,0000,0000,,Die denken alle,\Ndass ich den Dead Reaper besiegt hätte,
+Dialogue: 0,0:05:42.41,0:05:44.33,Default,Lenore,0000,0000,0000,,also sprich mich nicht einfach an.
+Dialogue: 0,0:05:44.33,0:05:45.71,Default,Nor,0000,0000,0000,,G-Gut …
+Dialogue: 0,0:05:47.56,0:05:51.02,Internal,Nor,0000,0000,0000,,Ritter sind Bürgerliche,\Ndie für ihren Dienst für das Königreich
+Dialogue: 0,0:05:51.02,0:05:54.02,Internal,Nor,0000,0000,0000,,in den Adelsstand erhoben wurden.
+Dialogue: 0,0:05:54.02,0:05:57.54,Internal,Nor,0000,0000,0000,,Die höheren Adligen\Nsehen größtenteils auf sie herab.
+Dialogue: 0,0:05:58.25,0:06:02.00,Default,Siphon,0000,0000,0000,,Auf gute Zusammenarbeit.\NIch bin ein Sohn der Familie Sipho…
+Dialogue: 0,0:06:03.27,0:06:06.05,Default,Siphon,0000,0000,0000,,Oh. Meine Brille war beschlagen.
+Dialogue: 0,0:06:11.21,0:06:13.56,Default,Maria,0000,0000,0000,,Guten Morgen, werte Mitschüler.
+Dialogue: 0,0:06:17.34,0:06:19.95,Default,Maria,0000,0000,0000,,Heute ist es schön warm, Amane.
+Dialogue: 0,0:06:19.95,0:06:22.06,Default,Amane,0000,0000,0000,,Ja. Das Wetter ist sehr angenehm.
+Dialogue: 0,0:06:22.42,0:06:23.54,Internal,Nor,0000,0000,0000,,Fräulein Maria …
+Dialogue: 0,0:06:23.92,0:06:27.52,Internal,Nor,0000,0000,0000,,Mit ihr werde ich nie etwas zu tun haben.
+Dialogue: 0,0:06:29.58,0:06:30.28,Default,Maria,0000,0000,0000,,Oh?
+Dialogue: 0,0:06:30.28,0:06:30.95,Default,Nor,0000,0000,0000,,Hm?
+Dialogue: 0,0:06:32.11,0:06:34.78,Default,Maria,0000,0000,0000,,Es ist schön, dich kennenzulernen,\NNor Stalgia.
+Dialogue: 0,0:06:35.10,0:06:35.74,Default,Nor,0000,0000,0000,,Huch?!
+Dialogue: 0,0:06:36.11,0:06:37.37,Default,Alle,0000,0000,0000,,Was?!
+Dialogue: 0,0:06:37.37,0:06:39.81,Default,Hjorth,0000,0000,0000,,W-Warum spricht eine ehrwürdige Person\Nwie Prinzessin Maria …
+Dialogue: 0,0:06:39.81,0:06:41.88,Default,Kent,0000,0000,0000,,… mit einem niederen Ritter?!
+Dialogue: 0,0:06:42.32,0:06:44.19,Default,Maria,0000,0000,0000,,Es ehrt mich, dich treffen zu dürfen.
+Dialogue: 0,0:06:44.88,0:06:47.45,Default,Maria,0000,0000,0000,,Auf gute weitere Zusammenarbeit.
+Dialogue: 0,0:06:48.40,0:06:50.38,Default,Nor,0000,0000,0000,,G-Gleichfalls.
+Dialogue: 0,0:06:51.07,0:06:53.69,Default,Maria,0000,0000,0000,,Einen schönen guten Tag,\NFräulein Ema Brightness.
+Dialogue: 0,0:06:53.69,0:06:56.02,Default,Ema,0000,0000,0000,,E-Einen schönen guten Tag.
+Dialogue: 0,0:06:56.02,0:06:57.95,Default,Nor,0000,0000,0000,,Seit wann kennst du Fräulein Maria?
+Dialogue: 0,0:06:57.95,0:07:00.19,Default,Ema,0000,0000,0000,,Huch? Das wollte ich dich gerade fragen.
+Dialogue: 0,0:07:00.19,0:07:00.97,Default,Nor,0000,0000,0000,,Huch?!
+Dialogue: 0,0:07:02.43,0:07:04.30,Internal,Nor,0000,0000,0000,,Ich verstehe nicht,\Nwas hier gerade passiert.
+Dialogue: 0,0:07:05.13,0:07:08.01,Internal,Nor,0000,0000,0000,,Maria scheint kein\Nschlechter Mensch zu sein.
+Dialogue: 0,0:07:08.40,0:07:11.48,Internal,Nor,0000,0000,0000,,Warum dann der Fluch,\Nder sie an ihrem 16. Geburtstag töten wird?
+Dialogue: 0,0:07:14.74,0:07:17.11,Default,Maria,0000,0000,0000,,Ich freue mich auf unser nächstes Gespräch.
+Dialogue: 0,0:07:17.11,0:07:17.91,Default,Maria,0000,0000,0000,,Bis dann.
+Dialogue: 0,0:07:18.36,0:07:20.50,Default,Amane,0000,0000,0000,,Entschuldigt. Geht kurz beiseite.
+Dialogue: 0,0:07:22.24,0:07:24.56,Default,Siphon,0000,0000,0000,,Ich habe meine Meinung über dich geändert.
+Dialogue: 0,0:07:24.56,0:07:27.53,Default,Siphon,0000,0000,0000,,Wer hätte gedacht,\Ndass du mit Prinzessin Maria bekannt bist.
+Dialogue: 0,0:07:27.53,0:07:28.93,Default,Siphon,0000,0000,0000,,Ich bin der Sohn der Familie Sipho…
+Dialogue: 0,0:07:28.26,0:07:29.60,Overlap,Nor,0000,0000,0000,,Schon gut.
+Dialogue: 0,0:07:30.55,0:07:33.63,Default,Siphon,0000,0000,0000,,Ich bin der Sohn der Familie Sipho…
+Dialogue: 0,0:07:41.55,0:07:44.19,Default,Elna,0000,0000,0000,,Bevor ich Lehrerin wurde,\Nwar ich Söldner.
+Dialogue: 0,0:07:44.19,0:07:46.39,Default,Elna,0000,0000,0000,,Vom Alter von 7 bis zum Alter von 24.
+Dialogue: 0,0:07:49.59,0:07:51.46,Default,Elna,0000,0000,0000,,Mein Name ist Elna Stongs.
+Dialogue: 0,0:07:51.46,0:07:54.74,Default,Elna,0000,0000,0000,,Wenn ich euch in Form bringen soll,\Nsagt Bescheid.
+Dialogue: 0,0:07:54.74,0:07:56.84,Default,Elna,0000,0000,0000,,Ich werd euch bis\Nzum bitteren Ende dabei helfen.
+Dialogue: 0,0:08:00.19,0:08:05.15,Default,Elna,0000,0000,0000,,Aber ich würde euch auch nicht mehr\Ngehen lassen, bis ich zufrieden bin.
+Dialogue: 0,0:08:08.00,0:08:12.04,Internal,Nor,0000,0000,0000,,Sie ist unsere Lehrerin?\NWerden wir das überstehen?
+Dialogue: 0,0:08:12.04,0:08:16.01,Default,Elna,0000,0000,0000,,Außerhalb der Hauptstadt wimmelt es von\NMonstern, Banditen und anderen Bösewichten.
+Dialogue: 0,0:08:17.16,0:08:20.93,Default,Elna,0000,0000,0000,,Es ist eine Welt, in dem euch ein einziger Schlag\Neuer Ende bereiten kann. Deshalb …
+Dialogue: 0,0:08:21.43,0:08:24.37,Default,Elna,0000,0000,0000,,werdet ihr heute lernen,\Nwie ihr euch schützen könnt.
+Dialogue: 0,0:08:24.37,0:08:25.15,Default,Elna,0000,0000,0000,,Dann …
+Dialogue: 0,0:08:28.23,0:08:30.65,Default,Elna,0000,0000,0000,,Nor Stalgia, tritt vor.
+Dialogue: 0,0:08:30.83,0:08:32.27,Default,Nor,0000,0000,0000,,J-Jawohl!
+Dialogue: 0,0:08:33.50,0:08:35.89,Default,Elna,0000,0000,0000,,Versuch, mich mit deinem Schwert zu treffen.
+Dialogue: 0,0:08:35.89,0:08:37.47,Default,Elna,0000,0000,0000,,Als ob du mich töten wolltest.
+Dialogue: 0,0:08:39.52,0:08:41.66,Default,Nor,0000,0000,0000,,Huch? Aber was ist, wenn …
+Dialogue: 0,0:08:41.98,0:08:43.47,Default,Elna,0000,0000,0000,,Keine Sorge.
+Dialogue: 0,0:08:43.47,0:08:45.29,Default,Elna,0000,0000,0000,,Du wirst mir nicht mal\Neinen Kratzer verpassen.
+Dialogue: 0,0:08:47.03,0:08:48.62,Internal,Nor,0000,0000,0000,,Sie ist ziemlich von sich überzeugt.
+Dialogue: 0,0:08:49.29,0:08:51.71,Internal,Nor,0000,0000,0000,,Ist sie wirklich so stark?
+Dialogue: 0,0:08:53.30,0:08:55.55,TypePlaceholder,type,0000,0000,0000,,{\p1\bord3.8\3c&H000000&\1a&HFF&\shad0\an8\c&H4D3824&\pos(139,20)}m 0 0 l 235 0 235 132 0 132{\p0}
+Dialogue: 1,0:08:53.30,0:08:55.55,TypePlaceholder,type,0000,0000,0000,,{\p1\bord2.5\3c&HFFFFFF&\1a&H6C&\shad0\an8\c&H4D3824&\pos(139,20)}m 0 0 l 235 0 235 132 0 132{\p0}
+Dialogue: 2,0:08:53.30,0:08:55.55,TypePlaceholder,type,0000,0000,0000,,{\b1\fs18\bord1.2\an5\b1\shad1\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\pos(84,19)}Elna Stongs
+Dialogue: 2,0:08:53.30,0:08:55.55,TypePlaceholder,type,0000,0000,0000,,{\b1\fs18\bord1.2\an6\b1\shad1\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\pos(235,16)}Lv.{\fs28\bord1.5\shad1.4}232
+Dialogue: 2,0:08:53.30,0:08:55.55,TypePlaceholder,type,0000,0000,0000,,{\b1\fs13\bord0\b0\shad1.2\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\pos(34,32)}Alter: {\fs16}24{\fs13}\NBeruf: {\fs16}Lehrerin{\fs13}\NSkills:\N
+Dialogue: 2,0:08:53.30,0:08:55.55,TypePlaceholder,type,0000,0000,0000,,{\b1\fs16\bord0\b0\shad1.2\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an8\pos(139,63)}[Ausdauer UP]\N[Kampfkunst (Stufe A)]\N[Schwertkampf, einhändig]\N[Durchbohren]\N[Erdwall] [Erdgeschoss] [Heilung]
+Dialogue: 0,0:08:55.88,0:08:58.42,Internal,Nor,0000,0000,0000,,S-Sie ist verdammt stark!
+Dialogue: 0,0:08:58.42,0:09:00.63,Internal,Nor,0000,0000,0000,,Und ich bin Level 35!
+Dialogue: 0,0:09:01.15,0:09:02.39,Default,Elna,0000,0000,0000,,Was ist los?
+Dialogue: 0,0:09:03.21,0:09:04.27,Default,Elna,0000,0000,0000,,Greif endlich an.
+Dialogue: 0,0:09:04.89,0:09:06.23,Internal,Nor,0000,0000,0000,,Hier darf ich …
+Dialogue: 0,0:09:06.23,0:09:07.48,Internal,Nor,0000,0000,0000,,mich nicht zurückhalten!
+Dialogue: 0,0:09:08.64,0:09:09.23,Internal,Nor,0000,0000,0000,,Volles Risiko!
+Dialogue: 0,0:09:09.69,0:09:11.90,Internal,Nor,0000,0000,0000,,Angriff mit voller Kraft!
+Dialogue: 0,0:09:23.00,0:09:24.96,Default,Elna,0000,0000,0000,,Backstep.
+Dialogue: 0,0:09:24.96,0:09:27.08,Default,Elna,0000,0000,0000,,Den werdet ihr ab sofort erlernen.
+Dialogue: 0,0:09:27.51,0:09:29.84,Internal,Nor,0000,0000,0000,,W-Wie schnell ist sie bitte?
+Dialogue: 0,0:09:30.26,0:09:32.49,Default,Elna,0000,0000,0000,,So, jetzt tauschen wir.
+Dialogue: 0,0:09:32.49,0:09:34.07,Default,Elna,0000,0000,0000,,Versuch, das von eben nachzumachen.
+Dialogue: 0,0:09:35.29,0:09:38.09,Default,Nor,0000,0000,0000,,N-Nachmachen? Aber wie?
+Dialogue: 0,0:09:38.48,0:09:42.35,Default,Elna,0000,0000,0000,,Ist doch einfach. Du lockst mich an\Nund dann springst du nach hinten.
+Dialogue: 0,0:09:42.76,0:09:44.35,Default,Elna,0000,0000,0000,,Dann fangen wir mal an.
+Dialogue: 0,0:09:44.75,0:09:46.40,Internal,Nor,0000,0000,0000,,G-Gut …
+Dialogue: 0,0:09:46.40,0:09:49.16,Internal,Nor,0000,0000,0000,,Ich habe schon so oft\Nim versteckten Dungeon gekämpft.
+Dialogue: 0,0:09:49.16,0:09:50.06,Internal,Nor,0000,0000,0000,,Das wird schon!
+Dialogue: 0,0:09:50.42,0:09:51.08,Default,Nor,0000,0000,0000,,Urgs …
+Dialogue: 0,0:09:57.43,0:09:59.24,Default,Ema,0000,0000,0000,,Nor!
+Dialogue: 0,0:09:59.24,0:10:00.95,Default,Ema,0000,0000,0000,,Ist alles in Ordnung?! Nor?!
+Dialogue: 0,0:10:01.42,0:10:04.64,Default,Elna,0000,0000,0000,,Keine Sorge.\NIch werde ihn mit „Heilung“ heilen.
+Dialogue: 0,0:10:05.35,0:10:07.59,Default,Elna,0000,0000,0000,,Jetzt können wir das noch mal probieren.
+Dialogue: 0,0:10:08.17,0:10:10.05,Default,Kent,0000,0000,0000,,S-Sie ist kein teuflischer Lehrer.
+Dialogue: 0,0:10:10.05,0:10:11.62,Default,Hjorth,0000,0000,0000,,Sie ist der Teufel höchstpersönlich.
+Dialogue: 0,0:10:15.42,0:10:18.08,Default,Elna,0000,0000,0000,,Hm … Wie wäre es, wenn …
+Dialogue: 0,0:10:18.65,0:10:21.85,Default,Elna,0000,0000,0000,,ich denjenigen belohne,\Nder „Backstep“ als Erstes erfolgreich anwendet?
+Dialogue: 0,0:10:22.41,0:10:23.85,Default,Nor,0000,0000,0000,,Belohne?
+Dialogue: 0,0:10:24.26,0:10:28.06,Default,Elna,0000,0000,0000,,Wer auch immer einem\Nmeiner Angriffe ausweichen kann,
+Dialogue: 0,0:10:28.06,0:10:30.88,Default,Elna,0000,0000,0000,,dem tue ich etwas …
+Dialogue: 0,0:10:30.88,0:10:33.40,Default,Elna,0000,0000,0000,,Gu…tes.
+Dialogue: 0,0:10:36.27,0:10:37.85,Default,Hjorth,0000,0000,0000,,Versage!
+Dialogue: 0,0:10:37.85,0:10:40.99,Default,Kent,0000,0000,0000,,Ich werde mir die Belohnung abholen!
+Dialogue: 0,0:10:40.99,0:10:43.55,Default,Schüler,0000,0000,0000,,Nach dem da bin ich dran!
+Dialogue: 0,0:10:44.11,0:10:46.92,Default,Lenore,0000,0000,0000,,Ah … Diese dummen Jungs …
+Dialogue: 0,0:10:46.92,0:10:48.26,Default,Lenore,0000,0000,0000,,Meine Güte.
+Dialogue: 0,0:10:48.99,0:10:51.04,Internal,Nor,0000,0000,0000,,Ich hab keine Lust auf mehr Schmerzen.
+Dialogue: 0,0:10:51.69,0:10:54.34,Internal,Nor,0000,0000,0000,,Wenn ich mir den Skill\N„Kampfkunst C“ erschaffe …
+Dialogue: 1,0:10:54.63,0:10:57.84,TypePlaceholder,type,0000,0000,0000,,{\b1\fs38\bord1.6\an5\b1\shad2\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\pos(441.5,125)\fad(350,0)\t(3000,3228,\fry-90)}Kampfkunst C
+Dialogue: 0,0:10:54.63,0:10:59.55,TypePlaceholder,type,0000,0000,0000,,{\p1\bord0\shad0\an5\c\c&HF9F497&\pos(441.5,125)}m 0 0 l 374 0 374 55 0 55{\p0}
+Dialogue: 1,0:10:54.88,0:10:57.88,TypePlaceholder,type,0000,0000,0000,,{\fs13\bord0.5\b1\shad1.2\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an5\fad(200,250)\pos(500,168)}Für Erschaffung benötigt
+Dialogue: 1,0:10:55.05,0:10:57.88,TypePlaceholder,type,0000,0000,0000,,{\fs13\bord0.5\b1\shad1.2\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an5\fad(200,250)\pos(500,264)}Verbleibend
+Dialogue: 0,0:10:55.19,0:10:56.40,Internal,Nor,0000,0000,0000,,So teuer!
+Dialogue: 0,0:10:56.76,0:10:59.18,Internal,Nor,0000,0000,0000,,Und wenn ich\N„Backstep, verbessert“ erschaffe?
+Dialogue: 1,0:10:57.84,0:11:02.55,TypePlaceholder,type,0000,0000,0000,,{\b1\fs38\bord1.6\an5\b1\shad2\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\pos(441.5,125)\fry90\t(0,275,\fry0)}Backstep, verbessert
+Dialogue: 1,0:10:58.34,0:11:02.55,TypePlaceholder,type,0000,0000,0000,,{\fs13\bord0.5\b1\shad1.2\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an5\fad(200,0)\pos(500,152)}Für Erschaffung benötigt
+Dialogue: 1,0:10:58.42,0:11:02.55,TypePlaceholder,type,0000,0000,0000,,{\fs13\bord0.5\b1\shad1.2\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an5\fad(200,0)\pos(500,238.4)}Verbleibend
+Dialogue: 0,0:10:59.55,0:11:02.55,TypePlaceholder,,0000,0000,0000,,{\p1\bord0\shad0\an5\c\c&HDDFFF0&\pos(441.5,125)}m 0 0 l 374 0 374 55 0 55{\p0}
+Dialogue: 0,0:10:59.90,0:11:02.30,Internal,Nor,0000,0000,0000,,Ah. Das ist kosteneffektiver!
+Dialogue: 0,0:11:03.47,0:11:04.14,Default,Nor,0000,0000,0000,,Ah! Moment ma…
+Dialogue: 0,0:11:04.14,0:11:05.82,Default,Elna,0000,0000,0000,,Starr keine Löcher in die Gegend!
+Dialogue: 0,0:11:20.22,0:11:23.74,Default,Nor,0000,0000,0000,,Wenn ich per Backstep ausweiche,\Nerhalte ich etwas, oder?
+Dialogue: 0,0:11:24.38,0:11:27.10,Default,Elna,0000,0000,0000,,Eine Belohnung von Frau Elna.
+Dialogue: 0,0:11:31.70,0:11:34.00,Default,Ema,0000,0000,0000,,The Hidden Dungeon Only I Can Enter.
+Dialogue: 0,0:11:39.84,0:11:41.01,Internal,Nor,0000,0000,0000,,Frau Elna.
+Dialogue: 0,0:11:42.01,0:11:45.51,Internal,Nor,0000,0000,0000,,Sie wurde schon als junges Mädchen\Nals Söldnerin trainiert.
+Dialogue: 0,0:11:45.78,0:11:48.52,Internal,Nor,0000,0000,0000,,Sie ist eine knallharte, erwachsene Frau.
+Dialogue: 0,0:11:49.71,0:11:52.46,Internal,Nor,0000,0000,0000,,Eine Belohnung von ihr ist …
+Dialogue: 0,0:11:56.67,0:11:58.76,Default,Elna,0000,0000,0000,,Hey, was sagst du dazu?
+Dialogue: 0,0:11:58.76,0:12:02.27,Default,Elna,0000,0000,0000,,Meinen Hintern haben sie schon\Nzu meiner Zeit als Söldnerin gelobt.
+Dialogue: 0,0:12:06.95,0:12:11.25,Default,Allen,0000,0000,0000,,Verdammt. Dass nur er „Backstep“\Nerfolgreich anwenden würde …
+Dialogue: 0,0:12:11.25,0:12:13.94,Default,Hjorth,0000,0000,0000,,Du hast dir die Belohnung verdient!
+Dialogue: 0,0:12:13.94,0:12:16.21,Default,Kent,0000,0000,0000,,Was wimmerst du dann so?
+Dialogue: 0,0:12:17.87,0:12:19.21,Default,Lenore,0000,0000,0000,,Lauter Idioten …
+Dialogue: 0,0:12:22.99,0:12:24.67,Default,Ema,0000,0000,0000,,Nor …
+Dialogue: 0,0:12:30.15,0:12:32.52,Default,Elna,0000,0000,0000,,Nun sag schon, wie fühlt es sich an?
+Dialogue: 0,0:12:32.52,0:12:35.54,Default,Nor,0000,0000,0000,,Meine … Brust … schmerzt.
+Dialogue: 0,0:12:35.54,0:12:38.25,Default,Elna,0000,0000,0000,,Hm? Bist du etwa scharf auf mich?
+Dialogue: 0,0:12:38.25,0:12:41.02,Default,Nor,0000,0000,0000,,N-Nein … Ihr Hintern …\Nist einfach nur schwer.
+Dialogue: 0,0:12:41.02,0:12:42.46,Default,Elna,0000,0000,0000,,Wie bitte?!
+Dialogue: 0,0:12:46.00,0:12:49.08,Default,Elna,0000,0000,0000,,So, Belohnung und Pause sind vorbei.
+Dialogue: 0,0:12:50.73,0:12:52.06,Default,Allen,0000,0000,0000,,Wie war’s?!
+Dialogue: 0,0:12:52.54,0:12:54.76,Default,Allen,0000,0000,0000,,War er weich?\NWonach hat sie geduftet?
+Dialogue: 0,0:12:54.76,0:12:56.44,Default,Kent,0000,0000,0000,,Ich bin so neidisch!
+Dialogue: 0,0:12:56.44,0:12:58.79,Default,Hjorth,0000,0000,0000,,Ich will das auch mal erleben!
+Dialogue: 0,0:12:59.45,0:13:01.59,Default,Elna,0000,0000,0000,,Haltet mal die Klappe.
+Dialogue: 0,0:13:04.19,0:13:06.24,Default,Ema,0000,0000,0000,,Nor? Ist alles in Ordnung?
+Dialogue: 0,0:13:06.24,0:13:09.32,Default,Ema,0000,0000,0000,,Du stehst doch jetzt nicht\Nplötzlich auf Hintern, oder?
+Dialogue: 0,0:13:09.32,0:13:10.93,Default,Nor,0000,0000,0000,,A-Als ob …
+Dialogue: 0,0:13:11.31,0:13:13.31,Default,Nor,0000,0000,0000,,Das muss ich nicht\Nunbedingt noch mal erfahren.
+Dialogue: 0,0:13:13.31,0:13:16.30,Internal,Nor,0000,0000,0000,,Aber das hat meine LP\Nnoch mal um 400 erhöht.
+Dialogue: 0,0:13:16.89,0:13:20.23,Internal,Nor,0000,0000,0000,,Vielleicht sollte ich sie doch noch mal\Ndanach fragen, dass sie sich auf mich setzt?
+Dialogue: 0,0:13:22.08,0:13:24.09,Default,Elna,0000,0000,0000,,So. Weiter zur nächsten Übung.
+Dialogue: 0,0:13:24.68,0:13:26.28,Default,Elna,0000,0000,0000,,Bildet Zweiergruppen.
+Dialogue: 0,0:13:26.28,0:13:27.78,Default,Schülerin4,0000,0000,0000,,Was machen wir?
+Dialogue: 0,0:13:27.78,0:13:29.22,Default,Schülerin5,0000,0000,0000,,Machen wir das gemeinsam?
+Dialogue: 0,0:13:29.22,0:13:31.98,Default,Ema,0000,0000,0000,,Nor. Wir tun uns zusammen.
+Dialogue: 0,0:13:31.98,0:13:32.79,Default,Nor,0000,0000,0000,,Ja.
+Dialogue: 0,0:13:33.05,0:13:34.69,Default,Elna,0000,0000,0000,,Hey, ihr.
+Dialogue: 0,0:13:34.69,0:13:36.66,Default,Elna,0000,0000,0000,,Ihr dürft euch nicht zusammentun.
+Dialogue: 0,0:13:36.66,0:13:38.91,Default,Ema,0000,0000,0000,,Huch? Warum denn?
+Dialogue: 0,0:13:38.91,0:13:40.42,Default,Elna,0000,0000,0000,,Ihr seid doch zusammen, oder?
+Dialogue: 0,0:13:40.73,0:13:43.10,Default,Elna,0000,0000,0000,,Das ist hier nicht hilfreich.
+Dialogue: 0,0:13:43.10,0:13:45.42,Default,Nor,0000,0000,0000,,Nein. Wir sind nicht zusammen.
+Dialogue: 0,0:13:45.67,0:13:47.38,Default,Elna,0000,0000,0000,,Hm? Tatsächlich?
+Dialogue: 0,0:13:47.38,0:13:49.97,Default,Ema,0000,0000,0000,,Genau. Noch nicht.
+Dialogue: 0,0:13:49.97,0:13:51.90,Default,Ema,0000,0000,0000,,Wir sind einfach nur\Nsehr gute Kindheitsfreunde.
+Dialogue: 0,0:13:51.90,0:13:53.43,Default,Ema,0000,0000,0000,,Zumindest noch.
+Dialogue: 0,0:13:54.07,0:13:55.75,Default,Elna,0000,0000,0000,,Es ist trotzdem ausgeschlossen.
+Dialogue: 0,0:13:56.26,0:13:59.40,Default,Elna,0000,0000,0000,,Maria und Amane,\Nihr dürft euch auch nicht zusammentun.
+Dialogue: 0,0:13:59.40,0:14:00.07,Default,Amane,0000,0000,0000,,Oh …
+Dialogue: 0,0:14:00.72,0:14:03.32,Default,Elna,0000,0000,0000,,Du bist doch Marias Dienerin, oder?
+Dialogue: 0,0:14:03.32,0:14:04.86,Default,Amane,0000,0000,0000,,Das stimmt, aber …
+Dialogue: 0,0:14:05.22,0:14:08.28,Default,Elna,0000,0000,0000,,Egal wie du mich auch anstarrst,\Nes bleibt dabei.
+Dialogue: 0,0:14:10.22,0:14:11.74,Default,Allen,0000,0000,0000,,Dann, Fräulein Maria, …
+Dialogue: 0,0:14:13.02,0:14:15.25,Default,Allen,0000,0000,0000,,tun Sie sich mit mir zusammen.
+Dialogue: 0,0:14:15.50,0:14:16.20,Default,Amane,0000,0000,0000,,Ah …
+Dialogue: 0,0:14:16.63,0:14:19.18,Default,Allen,0000,0000,0000,,Wir sind beide aus herzoglichen Familien.
+Dialogue: 0,0:14:19.18,0:14:23.54,Default,Allen,0000,0000,0000,,Als Menschen gleicher Stufe\Nsollten wir stolz zusammenarbeiten.
+Dialogue: 0,0:14:25.62,0:14:27.22,Default,Maria,0000,0000,0000,,Das werde ich ablehnen.
+Dialogue: 0,0:14:27.46,0:14:28.51,Default,Allen,0000,0000,0000,,Wa…
+Dialogue: 0,0:14:29.32,0:14:30.21,Default,Maria,0000,0000,0000,,Werte Mitschüler,
+Dialogue: 0,0:14:30.21,0:14:34.67,Default,Maria,0000,0000,0000,,es war einfach nur ein glücklicher Zufall, dass ich\Nals Tochter eines Herzogs geboren wurde.
+Dialogue: 0,0:14:34.67,0:14:36.30,Default,Maria,0000,0000,0000,,Deshalb ist mir sehr bewusst, …
+Dialogue: 0,0:14:37.39,0:14:40.14,Default,Maria,0000,0000,0000,,dass ich jeden Tag hart arbeiten muss,\Num meinen Status zu rechtfertigen.
+Dialogue: 0,0:14:42.70,0:14:44.48,Default,Maria,0000,0000,0000,,Ich bewundere sie.
+Dialogue: 0,0:14:45.05,0:14:46.94,Default,Maria,0000,0000,0000,,Die werten Ritter.
+Dialogue: 0,0:14:48.01,0:14:52.08,Default,Maria,0000,0000,0000,,Denn obwohl sie einmal Bürgerliche waren,
+Dialogue: 0,0:14:52.08,0:14:55.11,Default,Maria,0000,0000,0000,,so sind sie Krieger, die einst ihr Leben\Nfür das Königreich aufs Spiel setzten.
+Dialogue: 0,0:15:00.57,0:15:03.90,Default,Maria,0000,0000,0000,,Ich bevorzuge es, mich mit\Neinem solchen zusammenzutun,
+Dialogue: 0,0:15:03.90,0:15:08.44,Default,Maria,0000,0000,0000,,anstatt mit einem höheren Adligen, der nur seine Herkunft hervorhebt.
+Dialogue: 0,0:15:13.72,0:15:14.80,Default,Maria,0000,0000,0000,,Herr Nor?
+Dialogue: 0,0:15:15.36,0:15:17.64,Default,Maria,0000,0000,0000,,Darf ich Sie herausfordern?
+Dialogue: 0,0:15:18.65,0:15:20.35,Default,Nor,0000,0000,0000,,Es wäre mir eine Ehre.
+Dialogue: 0,0:15:31.59,0:15:33.25,Default,Amane,0000,0000,0000,,I-Irgendwie …
+Dialogue: 0,0:15:33.25,0:15:36.99,Default,Ema,0000,0000,0000,,… passen die beiden gut zusammen?!
+Dialogue: 0,0:15:38.33,0:15:39.83,Default,Alice,0000,0000,0000,,Schon wieder ein neues Weib?!
+Dialogue: 0,0:15:42.79,0:15:43.71,Default,Alice,0000,0000,0000,,Entschu…
+Dialogue: 0,0:15:45.72,0:15:47.77,Default,Alice,0000,0000,0000,,Entschuldigung.
+Dialogue: 0,0:15:52.32,0:15:55.53,Default,Elna,0000,0000,0000,,So. Wir üben nun, wie man richtig fällt.
+Dialogue: 0,0:15:56.14,0:15:57.85,Default,Elna,0000,0000,0000,,Nach ein paar Würfen\Nwechselt ihr euch ab.
+Dialogue: 0,0:15:58.70,0:16:00.77,Default,Nor,0000,0000,0000,,Ich lass mich zuerst werfen.
+Dialogue: 0,0:16:00.77,0:16:03.05,Default,Maria,0000,0000,0000,,Gut. Ich bitte darum.
+Dialogue: 0,0:16:06.76,0:16:08.57,Internal,Nor,0000,0000,0000,,Der Skill „Abrollen“ kostet …
+Dialogue: 0,0:16:08.61,0:16:14.07,TypePlaceholder,type,0000,0000,0000,,{\b1\fs46\bord2\fscx57\fscy57\4a&H4A&\3a&H4A&\an5\b1\shad2.4\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\fad(415,0)\pos(150,116)\t(0,415,\fscx100\fscy100)}Skill
+Dialogue: 0,0:16:08.61,0:16:14.07,TypePlaceholder,type,0000,0000,0000,,{\b1\fs46\bord2\fscx57\fscy57\4a&H4A&\3a&H4A&\an5\b1\shad2.4\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\fad(415,0)\pos(492,116)\t(0,415,\fscx100\fscy100)}Abrollen
+Dialogue: 0,0:16:09.32,0:16:14.07,TypePlaceholder,type,0000,0000,0000,,{\fs13\bord0\b0\shad1.2\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an5\fad(200,0)\pos(474,283)}Für Erschaffung\Nbenötigte LP:
+Dialogue: 1,0:16:09.91,0:16:14.07,Internal,Nor,0000,0000,0000,,fast nichts! Wahrscheinlich weil ich mein Leben lang\Nauf die Mütze bekommen habe.
+Dialogue: 0,0:16:17.46,0:16:19.20,Default,Maria,0000,0000,0000,,Dann fange ich jetzt an.
+Dialogue: 0,0:16:20.23,0:16:21.08,Default,Maria,0000,0000,0000,,So!
+Dialogue: 0,0:16:22.29,0:16:23.91,Internal,Nor,0000,0000,0000,,Gut. Das hat geklappt.
+Dialogue: 0,0:16:27.28,0:16:27.67,Default,Nor,0000,0000,0000,,Huch?!
+Dialogue: 0,0:16:32.31,0:16:34.19,Default,Nor,0000,0000,0000,,Ef ift nicht daf, waf ihr denkt!
+Dialogue: 0,0:16:34.19,0:16:35.84,Default,Nor,0000,0000,0000,,Ich bin unfchuldig!
+Dialogue: 0,0:16:36.52,0:16:38.42,Default,Amane,0000,0000,0000,,Nicht bewegen, Herr Stalgia.
+Dialogue: 0,0:16:38.96,0:16:39.84,Default,Nor,0000,0000,0000,,Huch?
+Dialogue: 0,0:16:39.84,0:16:40.64,Default,Amane,0000,0000,0000,,Maria?
+Dialogue: 0,0:16:41.18,0:16:45.73,Default,Maria,0000,0000,0000,,A-Alles gut.\NMir tat nur plötzlich die Brust weh.
+Dialogue: 0,0:16:48.44,0:16:50.59,Default,Amane,0000,0000,0000,,Du solltest dich doch\Nnicht überanstrengen.
+Dialogue: 0,0:16:51.39,0:16:53.89,Internal,Nor,0000,0000,0000,,Ist das etwa ein Anfall durch den Fluch?!
+Dialogue: 0,0:16:53.89,0:16:55.82,Default,Elna,0000,0000,0000,,Sie soll sich ein wenig ausruhen.
+Dialogue: 0,0:16:55.82,0:16:58.08,Default,Elna,0000,0000,0000,,Sobald die Stunde vorbei ist,\Nkomme ich noch mal vorbei.
+Dialogue: 0,0:16:58.08,0:16:59.37,Default,Amane,0000,0000,0000,,J-Ja.
+Dialogue: 0,0:17:08.83,0:17:10.48,Internal,Nor,0000,0000,0000,,Der 16-Jahre-Todesfluch.
+Dialogue: 0,0:17:10.99,0:17:13.62,Internal,Nor,0000,0000,0000,,Er bewirkt beim Opfer in regelmäßigen\NAbständen schwerste Schmerzen.
+Dialogue: 0,0:17:13.88,0:17:16.89,Internal,Nor,0000,0000,0000,,Ein Fluch-Skill,\Ndessen Opfer mit 16 sterben.
+Dialogue: 1,0:17:16.89,0:17:19.02,Internal,Nor,0000,0000,0000,,Wenn ich ihn mit „Bearbeitung“\Nlöschen würde …
+Dialogue: 0,0:17:18.55,0:17:21.64,TypePlaceholder,type,0000,0000,0000,,{\b1\fs18\bord1.2\an5\b1\shad1\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\fad(350,0)\pos(492,253)}16-Jahre-Todesfluch
+Dialogue: 0,0:17:18.55,0:17:21.64,TypePlaceholder,type,0000,0000,0000,,{\b1\fs10\bord0\b0\shad1.2\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an2\fad(350,0)\pos(467,308)}Für Löschung\Nbenötigte LP:
+Dialogue: 0,0:17:22.24,0:17:24.56,Internal,Nor,0000,0000,0000,,Ds klappt nicht. Es reicht nicht annähernd.
+Dialogue: 0,0:17:24.98,0:17:27.61,Internal,Nor,0000,0000,0000,,Dann versuche ich erst mal\Nmit dem Skill „Großer Weiser“ …
+Dialogue: 0,0:17:31.16,0:17:32.56,Internal,Nor,0000,0000,0000,,Antworte mir, Großer Weiser.
+Dialogue: 0,0:17:32.56,0:17:35.67,Internal,Nor,0000,0000,0000,,Was wäre der schnellste Weg,\Num eine große Menge LP zu generieren?
+Dialogue: 0,0:17:36.50,0:17:37.54,Default,Großer Weiser,0000,0000,0000,,Eine Antwort ist …
+Dialogue: 0,0:17:38.03,0:17:39.91,Default,Großer Weiser,0000,0000,0000,,Alle anwesenden Damen
+Dialogue: 0,0:17:39.91,0:17:41.85,Default,Großer Weiser,0000,0000,0000,,stellen sich in einer Reihe auf.
+Dialogue: 0,0:17:42.58,0:17:43.91,Default,Großer Weiser,0000,0000,0000,,Im Anschluss …
+Dialogue: 0,0:17:44.20,0:17:48.27,Default,Großer Weiser,0000,0000,0000,,rennst du an ihnen vorbei\Nund fasst dabei all ihre Brüste an.
+Dialogue: 0,0:17:49.86,0:17:53.25,Default,Großer Weiser,0000,0000,0000,,Wenn du sie alle berührst,\Ngenerierst du 2000 LP.
+Dialogue: 0,0:17:53.25,0:17:55.05,Internal,Nor,0000,0000,0000,,Als ob ich so was tun könnte!
+Dialogue: 0,0:17:55.05,0:17:57.08,Internal,Nor,0000,0000,0000,,Außerdem wären das\Nimmer noch zu wenige LP!
+Dialogue: 0,0:17:57.08,0:17:58.93,Internal,Nor,0000,0000,0000,,Und diese Kopfschmerzen!
+Dialogue: 0,0:18:00.31,0:18:04.36,Default,Nor,0000,0000,0000,,Dabei habe ich doch\Nden Skill „Kopfschmerzresistenz“ …
+Dialogue: 0,0:18:04.36,0:18:07.10,Default,Ema,0000,0000,0000,,Nor? Was ist denn los?\NDu bist ja ganz blass.
+Dialogue: 0,0:18:07.71,0:18:09.53,Default,Nor,0000,0000,0000,,Ema … Unsere morgendliche …
+Dialogue: 0,0:18:09.96,0:18:11.27,Default,Nor,0000,0000,0000,,Unsere morgendliche Begrüßung!
+Dialogue: 0,0:18:11.27,0:18:12.16,Default,Ema,0000,0000,0000,,Huch?!
+Dialogue: 0,0:18:12.39,0:18:13.66,Default,Ema,0000,0000,0000,,Hier?!
+Dialogue: 0,0:18:13.66,0:18:15.01,Default,Ema,0000,0000,0000,,Das wär so peinlich!
+Dialogue: 0,0:18:15.01,0:18:15.90,Default,Nor,0000,0000,0000,,Ich halt’s nicht mehr aus!
+Dialogue: 0,0:18:16.12,0:18:16.92,Default,Nor,0000,0000,0000,,Entschuldige!
+Dialogue: 0,0:18:24.83,0:18:27.55,Default,Nor,0000,0000,0000,,Puh. Es lässt wieder nach.
+Dialogue: 0,0:18:32.54,0:18:36.14,Default,Elna,0000,0000,0000,,Wir sind hier … gerade im Unterricht.
+Dialogue: 0,0:18:38.91,0:18:42.47,Default,Nor,0000,0000,0000,,Es … war … ein … Notfall …
+Dialogue: 0,0:18:42.47,0:18:44.52,Default,Elna,0000,0000,0000,,15 Runden um die Schule!
+Dialogue: 0,0:18:44.52,0:18:47.18,Default,Elna,0000,0000,0000,,Im Sprint!
+Dialogue: 0,0:18:47.18,0:18:50.07,Default,Nor,0000,0000,0000,,Jawohl!
+Dialogue: 0,0:18:57.71,0:18:59.07,Default,Nor,0000,0000,0000,,Guten Tag, Fräulein Lola.
+Dialogue: 0,0:18:59.07,0:19:01.34,Default,Lola,0000,0000,0000,,Huch?! H-H-Herr Nor?!
+Dialogue: 0,0:19:01.34,0:19:02.90,Default,Lola,0000,0000,0000,,Warum sind Sie um diese Zeit hier?!
+Dialogue: 0,0:19:02.90,0:19:05.20,Default,Nor,0000,0000,0000,,Die Schule hat heute begonnen …
+Dialogue: 0,0:19:05.44,0:19:07.61,Default,Lola,0000,0000,0000,,Sagen Sie doch vorher Bescheid!
+Dialogue: 0,0:19:07.61,0:19:09.58,Default,Lola,0000,0000,0000,,Warten Sie bitte zehn, nein, fünf Minuten!
+Dialogue: 0,0:19:11.43,0:19:16.39,Default,Empfang,0000,0000,0000,,Sie schminkt sich neu. Sie dachte, du kämst\Nheute nicht, und hatte es nur halbherzig gemacht.
+Dialogue: 0,0:19:16.88,0:19:19.84,Default,Nor,0000,0000,0000,,Sie könnte tatsächlich\Nanders ausgesehen haben.
+Dialogue: 0,0:19:19.84,0:19:21.86,Default,Nor,0000,0000,0000,,Aber sie ist doch auch\Nungeschminkt hübsch.
+Dialogue: 0,0:19:22.57,0:19:25.88,Default,Ema,0000,0000,0000,,Sag mal, Nor. Soll die Schminkefrau\Ndoch bleiben, wo der Pfeffer wächst.
+Dialogue: 0,0:19:25.88,0:19:27.54,Default,Nor,0000,0000,0000,,So einfach ist das nicht.
+Dialogue: 0,0:19:27.54,0:19:29.79,Default,Nor,0000,0000,0000,,Sie ist für mich verantwortlich.
+Dialogue: 0,0:19:31.09,0:19:32.97,Default,Ema,0000,0000,0000,,Ach, Nor, du bist blöd.
+Dialogue: 0,0:19:35.63,0:19:37.86,Default,Lola,0000,0000,0000,,Der 16-Jahre-Todesfluch?
+Dialogue: 0,0:19:38.73,0:19:42.18,Default,Lola,0000,0000,0000,,Das ist ein mächtiger Fluch-Skill,\Nder zum Tode führt.
+Dialogue: 0,0:19:42.84,0:19:46.11,Default,Lola,0000,0000,0000,,Und eine Herzogstochter\Nwurde damit belastet?
+Dialogue: 0,0:19:47.66,0:19:51.44,Default,Ema,0000,0000,0000,,Und da denkt man immer,\Ndass Adlige keine Probleme hätten.
+Dialogue: 0,0:19:51.79,0:19:56.63,Default,Nor,0000,0000,0000,,Sie zeigt es zwar nicht, aber ich denke,\Ndass sie schlimme Dinge durchlebt hat.
+Dialogue: 0,0:19:57.91,0:20:00.54,Default,Nor,0000,0000,0000,,Wenn ich nicht innerhalb\Neiner Woche den Fluch aufhebe,
+Dialogue: 0,0:20:00.54,0:20:01.55,Default,Nor,0000,0000,0000,,wird sie …
+Dialogue: 0,0:20:03.15,0:20:04.47,Default,Lola,0000,0000,0000,,Oh nein.
+Dialogue: 0,0:20:05.32,0:20:07.64,Internal,Nor,0000,0000,0000,,Um den Fluch mit „Bearbeitung“ zu löschen,
+Dialogue: 0,0:20:07.64,0:20:09.67,Internal,Nor,0000,0000,0000,,werden 8000 LP benötigt.
+Dialogue: 0,0:20:10.40,0:20:12.63,Internal,Nor,0000,0000,0000,,Die kann ich kaum innerhalb\Neiner Woche sammeln.
+Dialogue: 0,0:20:14.48,0:20:18.68,Default,Nor,0000,0000,0000,,Außer Ihnen kenne ich niemanden,\Nder sich mit Skills oder Abenteurern auskennt.
+Dialogue: 0,0:20:19.37,0:20:20.97,Default,Nor,0000,0000,0000,,Können Sie nicht irgendwie helfen?
+Dialogue: 0,0:20:24.09,0:20:26.03,Default,Lola,0000,0000,0000,,Ich denke, jemand kann etwas tun.
+Dialogue: 0,0:20:26.03,0:20:28.37,Default,Lola,0000,0000,0000,,Eine heilige Jungfrau,\Ndie das Böse austreiben kann.
+Dialogue: 0,0:20:28.79,0:20:30.11,Default,Nor,0000,0000,0000,,Eine heilige Jungfrau?
+Dialogue: 0,0:20:30.63,0:20:35.37,Default,Lola,0000,0000,0000,,Die heilige Jungfrau Luna. Wir sind Freunde\Nund ich kann für ihre Fähigkeiten garantieren.
+Dialogue: 0,0:20:38.11,0:20:42.86,Default,Lola,0000,0000,0000,,Sie ist so beliebt, dass sie drei Monate\Nim Voraus ausgebucht ist.
+Dialogue: 0,0:20:42.86,0:20:44.69,Default,Ema,0000,0000,0000,,Nor, sie könnte sicher …
+Dialogue: 0,0:20:44.69,0:20:46.83,Default,Nor,0000,0000,0000,,Ja. Das klingt gut.
+Dialogue: 0,0:20:46.83,0:20:51.38,Default,Lola,0000,0000,0000,,Aber sie nimmt nur selten Aufträge\Nbezüglich Flüchen an.
+Dialogue: 0,0:20:51.38,0:20:53.14,Default,Nor,0000,0000,0000,,Huch? Warum denn das?
+Dialogue: 0,0:20:53.76,0:20:58.67,Default,Lola,0000,0000,0000,,Das weiß ich nicht.\NVielleicht gibt es damit irgendein Problem.
+Dialogue: 0,0:20:58.67,0:21:01.65,Default,Lola,0000,0000,0000,,Aber sie sagt es selbst mir,\Nihrer besten Freundin, nicht.
+Dialogue: 0,0:21:02.04,0:21:03.85,Default,Ema,0000,0000,0000,,Nor? Was machen wir?
+Dialogue: 0,0:21:08.10,0:21:11.96,Internal,Nor,0000,0000,0000,,Wenn ich das Problem der heiligen Jungfrau\Nmit meinen Skill lösen kann …
+Dialogue: 0,0:21:12.89,0:21:15.90,Internal,Nor,0000,0000,0000,,Wer soll es auch machen außer mir?!
+Dialogue: 0,0:21:16.99,0:21:21.82,Internal,Nor,0000,0000,0000,,Sie hat mir heute Morgen geholfen.
+Dialogue: 0,0:21:26.47,0:21:27.85,Internal,Nor,0000,0000,0000,,Diesmal werde ich …
+Dialogue: 0,0:21:28.39,0:21:30.43,Internal,Nor,0000,0000,0000,,Diesmal werde ich ihr helfen!
+Dialogue: 0,0:21:32.24,0:21:33.14,Default,Nor,0000,0000,0000,,Fräulein Lola!
+Dialogue: 0,0:21:36.30,0:21:38.80,Default,Nor,0000,0000,0000,,Bitte stellen Sie mich\Nder heiligen Jungfrau vor!
+Dialogue: 0,0:23:19.27,0:23:21.73,Default,Nor,0000,0000,0000,,Frau Elna? Haben Sie steife Schultern?
+Dialogue: 0,0:23:21.73,0:23:25.63,Default,Elna,0000,0000,0000,,Ja. Gibt’s denn da keinen edlen Herren,\Nder sie mir massieren kann?
+Dialogue: 0,0:23:25.63,0:23:28.97,Default,Nor,0000,0000,0000,,Wenn Sie sich wieder auf mich setzen,\Nkann ich das übernehmen.
+Dialogue: 0,0:23:28.97,0:23:32.89,Default,Elna,0000,0000,0000,,Ja. Mach ruhig.\NWenn du mich befriedigen kannst …
+Dialogue: 0,0:23:33.46,0:23:34.16,Default,Elna,0000,0000,0000,,Dann gern.
+Dialogue: 0,0:23:36.39,0:23:38.55,Internal,Nor,0000,0000,0000,,Ich erschaffe den Skill „Schultermassage“!
+Dialogue: 0,0:23:36.39,0:23:40.52,TypePlaceholder,Nor,0000,0000,0000,,{\b1\fs46\bord2\an5\b1\shad2.4\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\pos(120,116)\t(0,415,\fscx100\fscy100)}Skill
+Dialogue: 0,0:23:36.39,0:23:40.52,TypePlaceholder,Nor,0000,0000,0000,,{\b1\fs35\bord2\an6\b1\shad2.4\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\pos(610,116)}Schultermassage
+Dialogue: 0,0:23:36.39,0:23:40.52,TypePlaceholder,Nor,0000,0000,0000,,{\b1\fs12\bord0\b0\shad1.2\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an2\pos(488,239)}Für Erschaffung\Nbenötigte LP:
+Dialogue: 0,0:23:49.03,0:23:50.20,Default,Nor,0000,0000,0000,,Ist das so gut?
+Dialogue: 0,0:23:55.48,0:23:56.91,Default,Nor,0000,0000,0000,,Hier vielleicht?
+Dialogue: 0,0:23:56.91,0:23:58.08,Default,Nor,0000,0000,0000,,Oder vielleicht hier?
+Dialogue: 0,0:23:58.58,0:24:00.70,Default,Elna,0000,0000,0000,,Da!
+Dialogue: 0,0:24:01.22,0:24:03.26,Default,Elna,0000,0000,0000,,Da ist gut!
+Dialogue: 0,0:24:05.08,0:24:16.05,TypePlaceholder,type,0000,0000,0000,,{\an2\blur0.6\bord1\shad0\pos(320,315\be1)\3c&H000000&\c&HFFFFFF&\t(9500,11000,\1c&H000000&)}Versammlung. Bitte nicht stören!
+Dialogue: 0,0:24:05.31,0:24:09.01,Top,Elna,0000,0000,0000,,Du kannst das gut.\NDu bist der Allerbeste!
+Dialogue: 0,0:24:09.01,0:24:12.73,Internal Top,Nor,0000,0000,0000,,Danach setzte sie sich sehr lange auf mich\Nund generierte mir mächtig viel LP!
+Dialogue: 0,0:24:17.77,0:24:20.31,Default,Lola,0000,0000,0000,,Nächstes Mal: „Die unbefleckte heilige Jungfrau“.
+Dialogue: 0,0:24:18.26,0:24:21.93,Epititel,type,0000,0000,0000,,{\an2\fad(600,0)\blur0.6\pos(169,303)}„Die unbefleckte heilige Jungfrau“

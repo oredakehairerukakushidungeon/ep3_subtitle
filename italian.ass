@@ -1,0 +1,381 @@
+﻿[Script Info]
+Title: [Erai-raws] Italiano
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Narration - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,1
+Style: Main Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Italics Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Flashback Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00560B00,&H00560B00,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Episode Title,Times New Roman,30,&H00FCFFF8,&H000000FF,&H00000000,&H00855143,-1,0,0,0,100,100,0,0,1,0,2,8,0020,0020,0020,1
+Style: Overlap,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00216DDF,&H00692496,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Ep_Title,Comic Sans MS,24,&H18FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,3,0,1,1,0,3,0010,0045,0050,1
+Style: Next_Ep_Title,Comic Sans MS,24,&H18FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,3,0,1,2,0,1,0040,0010,0055,1
+Style: Time/Place_Setting,Arial,24,&H00FFFFFF,&H000000FF,&HB421232A,&H0021232A,-1,0,0,0,100,100,0,0,1,2,0,2,0208,0208,0085,1
+Style: Text_Box_Header,Arial,24,&H00FFFFFF,&H000000FF,&H0021232A,&H0021232A,-1,0,0,0,100,100,0,0,1,2,1,1,0203,0213,0075,1
+Style: Text_Box_Body,Arial,24,&HA0000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0000,0000,0020,1
+Style: Text_Box_Text,Trebuchet MS,18,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,1,4,0164,0098,0000,1
+Style: Illustration,Trebuchet MS,20,&H00E166E7,&H000000FF,&H00FFFFFF,&H00D683DB,0,0,0,0,100,100,0,0,1,1,1,3,0036,0040,0045,1
+Style: sign_3576_25_Aristocratic_Soc,Times New Roman,34,&H0059A7BA,&H000000FF,&H00FFFFFF,&H00376179,-1,0,0,0,100,100,0,0,1,2,3,8,0158,0158,0080,1
+Style: sign_3704_34_Baron,Arial,16,&H00131D2B,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0132,0455,0263,1
+Style: sign_6789_82_Skill__Great_Sag,Arial,24,&H00FFFFFF,&H000000FF,&H0021232A,&H8021232A,-1,0,0,0,100,100,0,0,1,2,1,2,0203,0213,0075,1
+Style: sign_7206_94_Q__What_s_tomorr,Comic Sans MS,24,&H00DD7E60,&H000000FF,&H00C0705B,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,4,0010,0390,0000,1
+Style: sign_16800_201_Skills_,Arial,24,&H00656464,&H000000FF,&H00494243,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,3,8,0281,0281,0059,1
+Style: Illustrazione: maruma,Trebuchet MS,22,&H005CCDF3,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0010,0010,0010,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.07,0:00:09.82,Main,Emma,0000,0000,0000,,Ottimo!
+Dialogue: 0,0:00:09.82,0:00:13.28,Main,Emma,0000,0000,0000,,Abbiamo entrambi pagato la tassa d'iscrizione, \Nquesto significa che...
+Dialogue: 0,0:00:14.15,0:00:18.54,Main,Noir,0000,0000,0000,,Le nostre nuove vite all'Accademia degli Eroi \Nstanno per cominciare.
+Dialogue: 0,0:00:18.54,0:00:19.50,Main,Emma,0000,0000,0000,,Sì!
+Dialogue: 0,0:00:23.29,0:00:24.85,Main,Emma,0000,0000,0000,,Noir, devi inchinarti!
+Dialogue: 0,0:00:25.79,0:00:27.22,Main,Noir,0000,0000,0000,,G-Giusto.
+Dialogue: 0,0:00:31.60,0:00:33.47,Main,Noir,0000,0000,0000,,È anche lei una studentessa?
+Dialogue: 0,0:00:33.47,0:00:35.54,Main,Emma,0000,0000,0000,,Non ricordi?
+Dialogue: 0,0:00:36.96,0:00:41.02,Main,Emma,0000,0000,0000,,C'era anche durante l'esame. \NMaria Fianna Albert.
+Dialogue: 0,0:00:42.47,0:00:45.98,Main,Emma,0000,0000,0000,,È la figlia del famoso duca Albert.
+Dialogue: 0,0:00:46.81,0:00:50.73,Main,Noir,0000,0000,0000,,Un duca... Quindi lei è una dei nobili di rango più alto.
+Dialogue: 0,0:00:50.73,0:00:53.80,Italics,Noir,0000,0000,0000,,Darò una sbirciatina col mio Occhio Perspicace \Nper farmi un'idea.
+Dialogue: 0,0:01:00.75,0:01:02.98,Main,Emma,0000,0000,0000,,Noir? Tutto bene?
+Dialogue: 0,0:01:03.87,0:01:04.96,Main,Noir,0000,0000,0000,,C'è...
+Dialogue: 0,0:01:05.60,0:01:07.65,Main,Noir,0000,0000,0000,,C'è una maledizione su di lei.
+Dialogue: 0,0:01:07.65,0:01:11.84,Main,Noir,0000,0000,0000,,Morirà il giorno del suo sedicesimo compleanno.
+Dialogue: 0,0:02:45.01,0:02:52.02,Ep_Title,Sign,0000,0000,0000,,{\fad(530,516)\pos(38,310)\an1\blur1\bord1.5\fscx90}#03 "La compagna di classe in difficoltà"
+Dialogue: 0,0:02:58.35,0:03:02.03,Main,Noir,0000,0000,0000,,A-Alice. Certo che ti piace proprio starmi attaccata.
+Dialogue: 0,0:03:02.03,0:03:04.83,Main,Alice,0000,0000,0000,,Beh, oggi è il tuo primo giorno di scuola.
+Dialogue: 0,0:03:07.58,0:03:10.95,Main,Alice,0000,0000,0000,,Sono certa che te la caverai benissimo \Nall'Accademia degli Eroi.
+Dialogue: 0,0:03:10.95,0:03:14.68,Main,Alice,0000,0000,0000,,Non mi importa se mi toccherà sputare sangue! \NL'anno prossimo mi ci iscriverò anch'io!
+Dialogue: 0,0:03:14.68,0:03:18.34,Main,Noir,0000,0000,0000,,S-Sono piuttosto sicuro che non dovrai farlo,\N ma ti ringrazio.
+Dialogue: 0,0:03:19.37,0:03:21.27,Main,Alice,0000,0000,0000,,Vieni qui, adorato fratello.
+Dialogue: 0,0:03:22.64,0:03:24.44,Main,Noir,0000,0000,0000,,A-Alice?
+Dialogue: 0,0:03:24.93,0:03:29.66,Main,Alice,0000,0000,0000,,Sento che se ti lascio andare,\N ti allontanerai molto da me.
+Dialogue: 0,0:03:29.66,0:03:31.90,Main,Noir,0000,0000,0000,,Vado soltanto a lezione.
+Dialogue: 0,0:03:32.44,0:03:34.74,Main,Dad,0000,0000,0000,,Buongiorno, studente dell'accademia d'élite!
+Dialogue: 0,0:03:34.74,0:03:37.17,Main,Dad,0000,0000,0000,,È ora di... ?!
+Dialogue: 0,0:03:44.42,0:03:48.40,Main,Dad,0000,0000,0000,,Un padre come si dovrebbe comportare\N in queste situazioni?!
+Dialogue: 0,0:03:57.17,0:03:59.20,Main,Emma,0000,0000,0000,,Buongiorno, Noir!
+Dialogue: 0,0:03:59.20,0:04:00.67,Main,Noir,0000,0000,0000,,Buongiorno, Emma.
+Dialogue: 0,0:04:01.19,0:04:02.68,Main,Noir,0000,0000,0000,,Allegra fin dalla mattina presto.
+Dialogue: 0,0:04:02.68,0:04:04.59,Main,Emma,0000,0000,0000,,Beh, è il nostro primo giorno all'accademia!
+Dialogue: 0,0:04:04.59,0:04:08.67,Main,Emma,0000,0000,0000,,Il mio lavoro come bibliotecaria era così così, \Nma qui ho intenzione di dare il massimo!
+Dialogue: 0,0:04:08.67,0:04:11.52,Main,Noir,0000,0000,0000,,Già, dopotutto siamo nella stessa classe, la S.
+Dialogue: 0,0:04:12.49,0:04:16.72,Main,Emma,0000,0000,0000,,Quindi, uhm... È ora del nostro saluto mattutino?
+Dialogue: 0,0:04:16.72,0:04:18.39,Main,Noir,0000,0000,0000,,C-Certo.
+Dialogue: 0,0:04:31.02,0:04:33.83,Main,Emma,0000,0000,0000,,In questo modo farai anche scorta di LP.
+Dialogue: 0,0:04:33.87,0:04:37.33,Text_Box_Header,Sign,0000,0000,0000,,{\fad(570,1)\pos(390,125)}Noir Stardia
+Dialogue: 0,0:04:44.67,0:04:47.63,Main,Emma,0000,0000,0000,,S-Sono un po' nervosa.
+Dialogue: 0,0:04:47.63,0:04:48.60,Main,Noir,0000,0000,0000,,Anch'io...
+Dialogue: 0,0:04:49.16,0:04:53.63,Italics,Noir,0000,0000,0000,,Il primo giorno dobbiamo indossare \Nqueste spille che indicano il nostro rango.
+Dialogue: 0,0:04:53.63,0:04:56.63,Italics,Noir,0000,0000,0000,,L'accademia sostiene che lo status non conta, eppure...
+Dialogue: 0,0:05:03.62,0:05:05.93,Main,Noir and Emma,0000,0000,0000,,B-Buongiorno.
+Dialogue: 0,0:05:06.57,0:05:08.15,Main,Student walla,0000,0000,0000,,Quel tizio è un baronetto.
+Dialogue: 0,0:05:08.15,0:05:09.83,Main,Student walla,0000,0000,0000,,Un nobile di basso rango quindi.
+Dialogue: 0,0:05:09.83,0:05:11.08,Main,Student walla,0000,0000,0000,,Lo ignorerò e basta.
+Dialogue: 0,0:05:12.99,0:05:14.37,Main,Allen,0000,0000,0000,,Piacere!
+Dialogue: 0,0:05:14.37,0:05:17.24,Main,Allen,0000,0000,0000,,Sono Allen, il primogenito della famiglia Milanos.
+Dialogue: 0,0:05:17.24,0:05:21.54,Main,Allen,0000,0000,0000,,Sono certo tu ne abbia sentito parlare. \NLa mia famiglia è consigliera fidata del re.
+Dialogue: 0,0:05:21.54,0:05:23.88,Main,Emma,0000,0000,0000,,S-Salve...
+Dialogue: 0,0:05:23.88,0:05:26.51,Main,Hjorth,0000,0000,0000,,Io mi chiamo Hjorth, della famiglia Boyle!
+Dialogue: 0,0:05:26.51,0:05:28.80,Main,Hjorth,0000,0000,0000,,Wow! Sei proprio il mio tipo!
+Dialogue: 0,0:05:28.80,0:05:30.45,Main,Kent,0000,0000,0000,,Io sono Kent Proix!
+Dialogue: 0,0:05:30.45,0:05:32.77,Main,Kent,0000,0000,0000,,La mia famiglia è quarta per ricchezza!
+Dialogue: 0,0:05:32.77,0:05:34.03,Main,Student walla,0000,0000,0000,,È bellissima...
+Dialogue: 0,0:05:34.03,0:05:35.04,Main,Student walla,0000,0000,0000,,Davvero splendida...
+Dialogue: 0,0:05:35.04,0:05:37.32,Main,Student walla,0000,0000,0000,,L'esatto opposto di quel tizio.
+Dialogue: 0,0:05:37.32,0:05:38.94,Main,Student walla,0000,0000,0000,,Sono enormi...
+Dialogue: 0,0:05:38.94,0:05:42.25,Main,Lenore,0000,0000,0000,,Tutti pensano che abbia sconfitto io il Mietitore,
+Dialogue: 0,0:05:42.25,0:05:44.13,Main,Lenore,0000,0000,0000,,quindi scordati di parlare con me come nulla fosse.
+Dialogue: 0,0:05:44.13,0:05:45.72,Main,Noir,0000,0000,0000,,C-Capito.
+Dialogue: 0,0:05:47.47,0:05:50.96,Italics,Noir,0000,0000,0000,,I baronetti sono semplici popolani \Nche hanno servito il Regno
+Dialogue: 0,0:05:50.96,0:05:53.88,Italics,Noir,0000,0000,0000,,e a cui è stato concesso \Ndi entrare nella società nobiliare.
+Dialogue: 0,0:05:53.88,0:05:57.54,Italics,Noir,0000,0000,0000,,La maggior parte dei nobili non ci accetta.
+Dialogue: 0,0:05:58.21,0:06:01.92,Main,Glasses,0000,0000,0000,,Piacere di conoscerti. \NSono della famiglia Siphon...
+Dialogue: 0,0:06:03.06,0:06:06.05,Main,Glasses,0000,0000,0000,,Ops, i miei occhiali sono un po' appannati, \Nnon riesco a vedere bene.
+Dialogue: 0,0:06:11.07,0:06:13.56,Main,Maria,0000,0000,0000,,Buongiorno a tutti.
+Dialogue: 0,0:06:17.06,0:06:19.79,Main,Maria,0000,0000,0000,,Fa piuttosto caldo quest'oggi, non trovi, Amane?
+Dialogue: 0,0:06:19.79,0:06:22.39,Main,Amane,0000,0000,0000,,Sì, è alquanto piacevole.
+Dialogue: 0,0:06:22.39,0:06:27.49,Italics,Noir,0000,0000,0000,,La signorina Maria è totalmente\N fuori dalla mia portata.
+Dialogue: 0,0:06:29.33,0:06:30.28,Main,Maria,0000,0000,0000,,Oh!
+Dialogue: 0,0:06:31.74,0:06:34.90,Main,Maria,0000,0000,0000,,È un vero piacere incontrarti, Noir Stardia.
+Dialogue: 0,0:06:37.37,0:06:39.63,Main,Hjorth,0000,0000,0000,,L-La nobile Maria gli ha rivolto la parola?
+Dialogue: 0,0:06:39.63,0:06:41.88,Main,Kent,0000,0000,0000,,Ma perché? È solo un baronetto!
+Dialogue: 0,0:06:42.24,0:06:44.28,Main,Maria,0000,0000,0000,,Onorata di fare la tua conoscenza.
+Dialogue: 0,0:06:44.76,0:06:47.40,Main,Maria,0000,0000,0000,,Spero che andremo d'accordo.
+Dialogue: 0,0:06:48.20,0:06:50.38,Main,Noir,0000,0000,0000,,A-Altrettanto...
+Dialogue: 0,0:06:50.89,0:06:53.56,Main,Maria,0000,0000,0000,,Buongiorno anche a te, Emma Brightness.
+Dialogue: 0,0:06:53.56,0:06:55.82,Main,Emma,0000,0000,0000,,B-B-Buongiorno!
+Dialogue: 0,0:06:55.82,0:06:57.77,Main,Noir,0000,0000,0000,,Da quando sei amica della signorina Maria?
+Dialogue: 0,0:06:57.77,0:07:00.06,Main,Emma,0000,0000,0000,,Eh? Questo dovrei chiederlo io!
+Dialogue: 0,0:07:02.28,0:07:04.30,Italics,Noir,0000,0000,0000,,Ma che sta succedendo?
+Dialogue: 0,0:07:04.97,0:07:08.40,Italics,Noir,0000,0000,0000,,La signorina Maria non sembra\N una cattiva persona, eppure...
+Dialogue: 0,0:07:08.40,0:07:11.46,Italics,Noir,0000,0000,0000,,Mi chiedo come mai abbia una maledizione \Nche la ucciderà a sedici anni...
+Dialogue: 0,0:07:14.56,0:07:17.91,Main,Maria,0000,0000,0000,,Avremo modo di parlare ancora.
+Dialogue: 0,0:07:18.28,0:07:20.50,Main,Amane,0000,0000,0000,,Con permesso. Fateci passare.
+Dialogue: 0,0:07:22.04,0:07:24.43,Main,Glasses,0000,0000,0000,,Forse sei più interessante di quanto non sembri!
+Dialogue: 0,0:07:24.43,0:07:27.39,Main,Glasses,0000,0000,0000,,Non sapevo conoscessi la nobile Maria.
+Dialogue: 0,0:07:27.39,0:07:29.52,Main,Glasses,0000,0000,0000,,Io sono della famiglia Siphon. Il mio—
+Dialogue: 0,0:07:28.16,0:07:29.52,Overlap,Noir,0000,0000,0000,,Sì sì, non mi interessa.
+Dialogue: 0,0:07:31.23,0:07:33.52,Main,Glasses,0000,0000,0000,,Ma appartengo alla famiglia Siphon...
+Dialogue: 0,0:07:41.50,0:07:46.31,Main,Elna,0000,0000,0000,,Dai 7 ai 24 anni ho fatto la mercenaria,\N poi sono diventata insegnante.
+Dialogue: 0,0:07:49.41,0:07:51.35,Main,Elna,0000,0000,0000,,Mi chiamo Elna Stongs.
+Dialogue: 0,0:07:51.35,0:07:54.62,Main,Elna,0000,0000,0000,,Se qualcuno di voi vuole lavorare duro, \Nme lo faccia sapere.
+Dialogue: 0,0:07:54.62,0:07:56.99,Main,Elna,0000,0000,0000,,Vi accompagnerò fino alla fine.
+Dialogue: 0,0:08:00.04,0:08:05.16,Main,Elna,0000,0000,0000,,Tuttavia, nessuno di voi potrà andarsene \Nfinché non mi riterrò soddisfatta.
+Dialogue: 0,0:08:07.59,0:08:11.87,Italics,Noir,0000,0000,0000,,È davvero un'insegnante? Siamo al sicuro con lei?
+Dialogue: 0,0:08:11.87,0:08:13.12,Main,Elna,0000,0000,0000,,Fuori dalla capitale reale
+Dialogue: 0,0:08:13.12,0:08:16.01,Main,Elna,0000,0000,0000,,ci sono mostri, banditi e furfanti ovunque.
+Dialogue: 0,0:08:17.04,0:08:20.07,Main,Elna,0000,0000,0000,,Se siete sfortunati, \Npotreste fare una brutta fine in un istante.
+Dialogue: 0,0:08:20.07,0:08:24.24,Main,Elna,0000,0000,0000,,Per cui... oggi ci alleneremo nell'autodifesa.
+Dialogue: 0,0:08:24.24,0:08:25.15,Main,Elna,0000,0000,0000,,Vediamo...
+Dialogue: 0,0:08:28.12,0:08:30.65,Main,Elna,0000,0000,0000,,Noir Stardia, vieni avanti.
+Dialogue: 0,0:08:30.65,0:08:32.30,Main,Noir,0000,0000,0000,,S-Sissignora!
+Dialogue: 0,0:08:33.43,0:08:37.34,Main,Elna,0000,0000,0000,,Attaccami con quella spada, \Ncome se volessi uccidermi.
+Dialogue: 0,0:08:39.40,0:08:41.66,Main,Noir,0000,0000,0000,,Eh? Ma se io...
+Dialogue: 0,0:08:41.66,0:08:45.39,Main,Elna,0000,0000,0000,,Tranquillo. \NNon riuscirai a farmi nemmeno un graffio.
+Dialogue: 0,0:08:46.95,0:08:51.70,Italics,Noir,0000,0000,0000,,È molto sicura di sé. Sarà davvero così forte?
+Dialogue: 0,0:08:53.30,0:08:55.55,Text_Box_Body,,0000,0000,0000,,{\p1\fscx430\fscy450\bord6\blur1\an4\3c&H000000&\pos(440,355)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:08:53.30,0:08:55.55,Text_Box_Body,,0000,0000,0000,,{\p1\fscx430\fscy450\bord4\1a&HAA&\c&HAF8264&\an4\pos(440,355)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:08:53.30,0:08:55.55,Text_Box_Header,Sign,0000,0000,0000,,{\fs20\pos(280.667,277.429)}Elna Stongs Lv.{\fs34}232
+Dialogue: 0,0:08:53.30,0:08:55.55,Text_Box_Text,Sign,0000,0000,0000,,{\shad2\fs16\fscy99\pos(278.858,314.572)}Età: 24\NProfessione: Istruttrice dell'Accademia\NAbilità: {\alpha}[Resistenza UP] [Arti Marziali (Grado A)]\N{\alpha&HFF&}Abilità: {\alpha}[Spada a una mano (Grado A)] [Perforazione]\N{\alpha&HFF&}Abilità: {\alpha}[Muro di Terra] [Proiettile di Terra] [Cura]
+Dialogue: 0,0:08:55.84,0:08:58.25,Italics,Noir,0000,0000,0000,,È-È spaventosamente forte!
+Dialogue: 0,0:08:58.25,0:09:00.56,Italics,Noir,0000,0000,0000,,Io sono solo al livello 35.
+Dialogue: 0,0:09:01.01,0:09:04.27,Main,Elna,0000,0000,0000,,Beh? Che stai aspettando?
+Dialogue: 0,0:09:04.73,0:09:07.48,Italics,Noir,0000,0000,0000,,Non posso trattenermi!
+Dialogue: 0,0:09:08.52,0:09:11.90,Italics,Noir,0000,0000,0000,,Ce la metterò tutta e la colpirò \Ncon tutte le mie forze!
+Dialogue: 0,0:09:22.95,0:09:27.08,Main,Elna,0000,0000,0000,,Il {\i1}Back Step{\i0}. Ecco cosa imparerete oggi.
+Dialogue: 0,0:09:27.08,0:09:29.84,Italics,Noir,0000,0000,0000,,È-È velocissima!
+Dialogue: 0,0:09:29.84,0:09:34.34,Main,Elna,0000,0000,0000,,Bene, adesso prova a difenderti. \NCerca di fare come ho fatto io.
+Dialogue: 0,0:09:35.27,0:09:38.09,Main,Noir,0000,0000,0000,,C-Certo che la fa facile, lei...
+Dialogue: 0,0:09:38.09,0:09:42.54,Main,Elna,0000,0000,0000,,Lo è eccome. Devi solo lasciarmi avanzare \Ne poi fare un passo indietro.
+Dialogue: 0,0:09:42.54,0:09:44.35,Main,Elna,0000,0000,0000,,Bene, allora vado!
+Dialogue: 0,0:09:44.35,0:09:46.19,Italics,Noir,0000,0000,0000,,P-Posso farcela!
+Dialogue: 0,0:09:46.19,0:09:50.06,Italics,Noir,0000,0000,0000,,Ho combattuto più volte nel dungeon nascosto e—
+Dialogue: 0,0:09:57.20,0:09:59.02,Main,Emma,0000,0000,0000,,Noir!
+Dialogue: 0,0:09:59.02,0:10:00.95,Main,Emma,0000,0000,0000,,Stai bene, Noir?!
+Dialogue: 0,0:10:01.36,0:10:04.95,Main,Elna,0000,0000,0000,,Non preoccuparti. \NUserò Cura per rimetterlo in sesto.
+Dialogue: 0,0:10:04.95,0:10:07.32,Main,Elna,0000,0000,0000,,Poi potremo fare un altro tentativo.
+Dialogue: 0,0:10:08.03,0:10:09.86,Main,Kent,0000,0000,0000,,Non è un'istruttrice demoniaca...
+Dialogue: 0,0:10:09.86,0:10:11.60,Main,Hjorth,0000,0000,0000,,È solo demoniaca.
+Dialogue: 0,0:10:15.21,0:10:18.02,Main,Elna,0000,0000,0000,,Hmm, vediamo un po'...
+Dialogue: 0,0:10:18.53,0:10:21.85,Main,Elna,0000,0000,0000,,se riuscirai ad eseguire un Back Step, \Nverrai premiato.
+Dialogue: 0,0:10:22.26,0:10:23.85,Main,Noir,0000,0000,0000,,Premiato?
+Dialogue: 0,0:10:23.85,0:10:27.91,Main,Elna,0000,0000,0000,,Se riuscirai a schivare anche uno solo \Ndei miei attacchi,
+Dialogue: 0,0:10:27.91,0:10:33.51,Main,Elna,0000,0000,0000,,farò qualcosa che ti piacerà di si-cu-ro.
+Dialogue: 0,0:10:36.11,0:10:37.76,Main,Hjorth,0000,0000,0000,,Vedi di fallire, dannazione!
+Dialogue: 0,0:10:37.76,0:10:40.83,Main,Kent,0000,0000,0000,,Vincerò io il premio!
+Dialogue: 0,0:10:40.83,0:10:43.55,Main,Guy,0000,0000,0000,,Il prossimo sono io!
+Dialogue: 0,0:10:45.20,0:10:48.28,Main,Lenore,0000,0000,0000,,I ragazzi sono... così patetici.
+Dialogue: 0,0:10:48.97,0:10:51.04,Italics,Noir,0000,0000,0000,,Sono stufo di prenderle.
+Dialogue: 0,0:10:51.56,0:10:54.32,Italics,Noir,0000,0000,0000,,Potrei usare Creazione \Nper ottenere Arti Marziali C...
+Dialogue: 0,0:10:54.63,0:10:57.84,Text_Box_Header,Sign,0000,0000,0000,,{\fad(399,225)\an8\4c&H4C4129&\pos(440.667,148)}Arti Marziali C
+Dialogue: 0,0:10:54.88,0:10:57.84,Text_Box_Body,,0000,0000,0000,,{\fad(232,225)\p1\fscx182\fscy287\bord3\1a&H00&\c&H998B5A&\an4\pos(502,241.5)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:10:54.88,0:10:57.84,Text_Box_Text,Sign,0000,0000,0000,,{\fad(232,225)\fs12\an8\pos(502,190)}LP Necessari per Creazione
+Dialogue: 0,0:10:54.88,0:10:57.84,Text_Box_Header,Sign,0000,0000,0000,,{\fad(232,225)\pos(463.333,234.667)\4c&H3A2D18&}LP.{\fs32}1000
+Dialogue: 0,0:10:55.01,0:10:56.64,Italics,Noir,0000,0000,0000,,Cavolo, ne servono un sacco!
+Dialogue: 0,0:10:55.05,0:10:57.84,Text_Box_Body,,0000,0000,0000,,{\fad(229,225)\p1\fscx182\fscy287\bord3\1a&H00&\c&H998B5A&\an4\pos(500,337)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:10:55.05,0:10:57.84,Text_Box_Text,Sign,0000,0000,0000,,{\fad(229,225)\fs12\pos(432,320)\fscx90}Rimanenti
+Dialogue: 0,0:10:55.05,0:10:57.84,Text_Box_Header,Sign,0000,0000,0000,,{\fad(229,225)\pos(480,330)}LP.{\fs32}830
+Dialogue: 0,0:10:56.64,0:10:58.91,Italics,Noir,0000,0000,0000,,Se invece potenziassi Back Step...
+Dialogue: 0,0:10:57.84,0:11:02.55,Text_Box_Header,Sign,0000,0000,0000,,{\fad(275,1)\pos(440,80)\an8\3c&H2D231F&\4c&H524826&}Migliora Back Step
+Dialogue: 0,0:10:58.34,0:11:02.55,Text_Box_Body,,0000,0000,0000,,{\fad(232,1)\p1\fscx182\fscy287\bord3\1a&H00&\c&H998B5A&\an4\pos(502,225)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:10:58.34,0:11:02.55,Text_Box_Header,Sign,0000,0000,0000,,{\fad(232,1)\4c&H3A2D18&\pos(481.333,219.333)}LP.{\fs32}200
+Dialogue: 0,0:10:58.34,0:11:02.55,Text_Box_Text,Sign,0000,0000,0000,,{\fad(232,1)\fs12\an8\pos(502,174)}LP Necessari per Creazione
+Dialogue: 0,0:10:58.42,0:11:02.55,Text_Box_Body,,0000,0000,0000,,{\fad(229,1)\p1\fscx182\fscy287\bord3\1a&H00&\c&H998B5A&\an4\pos(502,311)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:10:58.42,0:11:02.55,Text_Box_Text,Sign,0000,0000,0000,,{\fad(229,1)\fs12\pos(432,290)\fscx90}Rimanenti
+Dialogue: 0,0:10:58.42,0:11:02.55,Text_Box_Header,Sign,0000,0000,0000,,{\fad(229,1)\pos(480,300)}LP.{\fs32\fscx90}1630
+Dialogue: 0,0:11:00.64,0:11:02.55,Italics,Noir,0000,0000,0000,,Decisamente più conveniente!
+Dialogue: 0,0:11:03.47,0:11:04.22,Main,Noir,0000,0000,0000,,Ehi, un mome—
+Dialogue: 0,0:11:04.22,0:11:05.82,Main,Elna,0000,0000,0000,,Non distrarti!
+Dialogue: 0,0:11:20.07,0:11:23.99,Main,Noir,0000,0000,0000,,Quindi dicevamo che se fossi riuscito \Na eseguire un Back Step...
+Dialogue: 0,0:11:23.99,0:11:27.04,Main,Noir,0000,0000,0000,,avrei ricevuto un premio da lei, \Ndico bene, professoressa Elna?
+Dialogue: 0,0:11:31.60,0:11:33.85,Main,Emma,0000,0000,0000,,A Hidden Dungeon Only I Can Enter.
+Dialogue: 0,0:11:39.71,0:11:41.01,Italics,Noir,0000,0000,0000,,La professoressa Elna.
+Dialogue: 0,0:11:41.91,0:11:45.51,Italics,Noir,0000,0000,0000,,Addestrata fin da piccola a essere una mercenaria.
+Dialogue: 0,0:11:45.51,0:11:48.51,Italics,Noir,0000,0000,0000,,Una donna di una bellezza fredda e matura.
+Dialogue: 0,0:11:49.54,0:11:52.45,Italics,Noir,0000,0000,0000,,E il suo premio è...
+Dialogue: 0,0:11:56.44,0:11:58.61,Main,Elna,0000,0000,0000,,Allora, che te ne pare?
+Dialogue: 0,0:11:58.61,0:12:02.18,Main,Elna,0000,0000,0000,,Quando facevo la mercenaria \Nmi riempivano di complimenti per il mio culo.
+Dialogue: 0,0:12:08.11,0:12:11.22,Main,Allen,0000,0000,0000,,Non posso credere che proprio lui \Nsia riuscito a fare un Back Step!
+Dialogue: 0,0:12:11.22,0:12:13.81,Main,Hjorth,0000,0000,0000,,Ehi, almeno goditelo questo premio!
+Dialogue: 0,0:12:13.81,0:12:16.21,Main,Kent,0000,0000,0000,,Cerca di mostrarti più contento!
+Dialogue: 0,0:12:17.70,0:12:19.12,Main,Lenore,0000,0000,0000,,Che massa di imbecilli.
+Dialogue: 0,0:12:22.93,0:12:24.39,Main,Emma,0000,0000,0000,,Noir...
+Dialogue: 0,0:12:29.89,0:12:32.42,Main,Elna,0000,0000,0000,,Forza. Dimmi come ti senti.
+Dialogue: 0,0:12:32.42,0:12:35.43,Main,Noir,0000,0000,0000,,M-Mi manca il fiato...
+Dialogue: 0,0:12:35.43,0:12:38.20,Main,Elna,0000,0000,0000,,Mh? Ti sei preso una cotta per me?
+Dialogue: 0,0:12:38.20,0:12:40.94,Main,Noir,0000,0000,0000,,N-No. È solo che ha il culo pesan—
+Dialogue: 0,0:12:40.94,0:12:42.32,Main,Elna,0000,0000,0000,,Come dici?!
+Dialogue: 0,0:12:45.86,0:12:49.11,Main,Elna,0000,0000,0000,,Bene, la pausa premio è finita.
+Dialogue: 0,0:12:50.55,0:12:52.35,Main,Allen,0000,0000,0000,,Ehi, com'è stato?
+Dialogue: 0,0:12:52.35,0:12:54.60,Main,Allen,0000,0000,0000,,Era morbido? E che odore aveva?
+Dialogue: 0,0:12:54.60,0:12:56.35,Main,Kent,0000,0000,0000,,Sto morendo d'invidia.
+Dialogue: 0,0:12:56.35,0:12:58.79,Main,Hjorth,0000,0000,0000,,Voglio provarlo anch'io!
+Dialogue: 0,0:12:59.28,0:13:01.59,Main,Elna,0000,0000,0000,,Voi laggiù, chiudete il becco!
+Dialogue: 0,0:13:04.24,0:13:06.08,Main,Emma,0000,0000,0000,,Noir, tutto bene?!
+Dialogue: 0,0:13:06.08,0:13:09.10,Main,Emma,0000,0000,0000,,Non è che per caso adesso hai un debole per i culi?
+Dialogue: 0,0:13:09.10,0:13:10.93,Main,Noir,0000,0000,0000,,M-Ma certo che no...
+Dialogue: 0,0:13:11.23,0:13:13.19,Main,Noir,0000,0000,0000,,Ne ho avuto abbastanza.
+Dialogue: 0,0:13:13.19,0:13:16.17,Italics,Noir,0000,0000,0000,,I miei LP però sono saliti di 400.
+Dialogue: 0,0:13:16.79,0:13:20.30,Italics,Noir,0000,0000,0000,,Potrei chiederle di sedersi ancora su di me.
+Dialogue: 0,0:13:21.82,0:13:24.45,Main,Elna,0000,0000,0000,,Bene, è il momento di procedere alla prossima lezione.
+Dialogue: 0,0:13:24.45,0:13:26.28,Main,Elna,0000,0000,0000,,Dividetevi in coppie.
+Dialogue: 0,0:13:29.06,0:13:31.79,Main,Emma,0000,0000,0000,,Noir, facciamo l'esercizio insieme.
+Dialogue: 0,0:13:31.79,0:13:32.79,Main,Noir,0000,0000,0000,,Sì!
+Dialogue: 0,0:13:32.79,0:13:34.53,Main,Elna,0000,0000,0000,,Ehi, voi due.
+Dialogue: 0,0:13:34.53,0:13:36.51,Main,Elna,0000,0000,0000,,Non potete fare coppia.
+Dialogue: 0,0:13:36.51,0:13:38.78,Main,Emma,0000,0000,0000,,Eh? Perché?
+Dialogue: 0,0:13:38.78,0:13:40.42,Main,Elna,0000,0000,0000,,State insieme, non è così?
+Dialogue: 0,0:13:40.42,0:13:42.98,Main,Elna,0000,0000,0000,,Non funzionerà qui.
+Dialogue: 0,0:13:42.98,0:13:45.42,Main,Noir,0000,0000,0000,,No, non stiamo insieme, professoressa.
+Dialogue: 0,0:13:45.42,0:13:47.29,Main,Elna,0000,0000,0000,,Mh? Sul serio?
+Dialogue: 0,0:13:47.29,0:13:49.81,Main,Emma,0000,0000,0000,,Sì. Non ancora almeno.
+Dialogue: 0,0:13:49.81,0:13:53.43,Main,Emma,0000,0000,0000,,Per adesso siamo solo carissimi amici \Nche si conoscono da sempre.
+Dialogue: 0,0:13:53.89,0:13:56.04,Main,Elna,0000,0000,0000,,Sarà, ma dico comunque no.
+Dialogue: 0,0:13:56.04,0:13:59.40,Main,Elna,0000,0000,0000,,Maria e Amane, nemmeno voi potere fare coppia.
+Dialogue: 0,0:14:00.71,0:14:03.16,Main,Elna,0000,0000,0000,,Tu sei l'assistente personale di Maria, dico bene?
+Dialogue: 0,0:14:03.16,0:14:04.61,Main,Amane,0000,0000,0000,,Sì...
+Dialogue: 0,0:14:05.13,0:14:08.28,Main,Elna,0000,0000,0000,,Puoi guardarmi male quanto ti pare, \Nla risposta è comunque no.
+Dialogue: 0,0:14:10.11,0:14:11.74,Main,Allen,0000,0000,0000,,In tal caso, Maria...
+Dialogue: 0,0:14:12.84,0:14:15.25,Main,Allen,0000,0000,0000,,fa' l'esercizio con me.
+Dialogue: 0,0:14:15.25,0:14:16.20,Main,Amane,0000,0000,0000,,Ma—
+Dialogue: 0,0:14:16.52,0:14:19.05,Main,Allen,0000,0000,0000,,I nostri padri sono entrambi duchi.
+Dialogue: 0,0:14:19.05,0:14:23.45,Main,Allen,0000,0000,0000,,Collaboriamo in qualità di fieri nobili.
+Dialogue: 0,0:14:25.52,0:14:27.22,Main,Maria,0000,0000,0000,,Devo umilmente rifiutare.
+Dialogue: 0,0:14:27.22,0:14:28.43,Main,Allen,0000,0000,0000,,Cos—
+Dialogue: 0,0:14:29.25,0:14:33.69,Main,Maria,0000,0000,0000,,Cari compagni di classe, è per pura fortuna \Nse sono nata figlia di un duca.
+Dialogue: 0,0:14:34.48,0:14:40.00,Main,Maria,0000,0000,0000,,Quindi so bene di quanto duramente debba impegnarmi \Nogni giorno per essere degna del mio status.
+Dialogue: 0,0:14:42.53,0:14:46.86,Main,Maria,0000,0000,0000,,Io rispetto profondamente i baronetti.
+Dialogue: 0,0:14:47.85,0:14:51.93,Main,Maria,0000,0000,0000,,Perché nonostante un tempo \Nfossero semplici popolani,
+Dialogue: 0,0:14:51.93,0:14:54.84,Main,Maria,0000,0000,0000,,sono guerrieri che hanno rischiato la vita\N per il Regno.
+Dialogue: 0,0:15:00.49,0:15:06.51,Main,Maria,0000,0000,0000,,Piuttosto che un nobile di alto rango \Nche sbandiera il proprio titolo,
+Dialogue: 0,0:15:06.51,0:15:08.46,Main,Maria,0000,0000,0000,,preferisco un onesto baronetto.
+Dialogue: 0,0:15:13.61,0:15:17.67,Main,Maria,0000,0000,0000,,Noir, potrei fare l'esercizio con te?
+Dialogue: 0,0:15:18.55,0:15:20.50,Main,Noir,0000,0000,0000,,Ne sarei davvero onorato.
+Dialogue: 0,0:15:31.48,0:15:33.22,Main,Amane,0000,0000,0000,,S-Sono, uhm...
+Dialogue: 0,0:15:33.22,0:15:36.99,Main,Emma,0000,0000,0000,,Stanno legando un po' troppo!
+Dialogue: 0,0:15:38.12,0:15:39.83,Main,Alice,0000,0000,0000,,Un'altra ragazza?!
+Dialogue: 0,0:15:45.88,0:15:47.64,Main,Alice,0000,0000,0000,,C-Chiedo scusa.
+Dialogue: 0,0:15:52.09,0:15:55.56,Main,Elna,0000,0000,0000,,Bene, allora. \NOra faremo pratica con la Difesa Passiva.
+Dialogue: 0,0:15:55.98,0:15:57.85,Main,Elna,0000,0000,0000,,Proiettate il vostro partner più volte \Ne poi fate cambio.
+Dialogue: 0,0:15:58.56,0:16:00.56,Main,Noir,0000,0000,0000,,Puoi proiettare me per primo.
+Dialogue: 0,0:16:00.56,0:16:03.10,Main,Maria,0000,0000,0000,,Sì, va bene.
+Dialogue: 0,0:16:06.68,0:16:08.57,Italics,Noir,0000,0000,0000,,Per l'abilità Difesa Passiva...
+Dialogue: 0,0:16:08.61,0:16:14.07,Text_Box_Header,Sign,0000,0000,0000,,{\pos(310,90)\an8\q2\3a&H44&\4a&H44&}Abilità                                                Difesa Passiva
+Dialogue: 0,0:16:09.32,0:16:14.07,Text_Box_Text,Sign,0000,0000,0000,,{\fad(273,1)\pos(417,290)\c&HF7EEE3&\fscx80\fs14}LP Necessari per Creazione:
+Dialogue: 0,0:16:09.68,0:16:10.82,Italics,Noir,0000,0000,0000,,Costa pochissimo!
+Dialogue: 0,0:16:10.82,0:16:14.07,Italics,Noir,0000,0000,0000,,Forse dipende dal fatto che \Nsono da sempre una persona passiva!
+Dialogue: 0,0:16:17.37,0:16:19.20,Main,Maria,0000,0000,0000,,Allora vado.
+Dialogue: 0,0:16:22.29,0:16:23.96,Italics,Noir,0000,0000,0000,,Ottimo, ha funzionato!
+Dialogue: 0,0:16:32.14,0:16:34.30,Main,Noir,0000,0000,0000,,N-Non è ome fembra!
+Dialogue: 0,0:16:34.30,0:16:35.84,Main,Noir,0000,0000,0000,,F-Fono innofenfe!
+Dialogue: 0,0:16:36.44,0:16:38.41,Main,Amane,0000,0000,0000,,Non muoverti, Stardia!
+Dialogue: 0,0:16:38.76,0:16:39.58,Main,Noir,0000,0000,0000,,Ah?
+Dialogue: 0,0:16:39.58,0:16:40.95,Main,Amane,0000,0000,0000,,Maria?
+Dialogue: 0,0:16:40.95,0:16:45.73,Main,Maria,0000,0000,0000,,S-Sto bene. \NMi è solo mancato il fiato per un attimo.
+Dialogue: 0,0:16:48.23,0:16:50.52,Main,Amane,0000,0000,0000,,Ti avevo detto di non sforzarti troppo.
+Dialogue: 0,0:16:51.15,0:16:53.74,Italics,Noir,0000,0000,0000,,Un momento, sarà per via della maledizione?
+Dialogue: 0,0:16:53.74,0:16:55.63,Main,Elna,0000,0000,0000,,Falla riposare un po'.
+Dialogue: 0,0:16:55.63,0:16:57.93,Main,Elna,0000,0000,0000,,Verrò a darle un'occhiata a lezione finita.
+Dialogue: 0,0:16:57.93,0:16:59.37,Main,Amane,0000,0000,0000,,D-D'accordo.
+Dialogue: 0,0:17:08.63,0:17:10.79,Italics,Noir,0000,0000,0000,,La Maledizione della Morte al Sedicesimo Anno.
+Dialogue: 0,0:17:10.79,0:17:13.88,Italics,Noir,0000,0000,0000,,Il corpo della persona colpita è devastato\N da periodiche fitte di dolore intenso.
+Dialogue: 0,0:17:13.88,0:17:16.68,Italics,Noir,0000,0000,0000,,Questa maledizione causa la morte\N all'età di sedici anni.
+Dialogue: 0,0:17:16.68,0:17:18.91,Italics,Noir,0000,0000,0000,,Se usassi Modifica per eliminarla...
+Dialogue: 0,0:17:18.55,0:17:21.64,Text_Box_Header,Sign,0000,0000,0000,,{\fad(404,1)\fs18\fscx90\pos(422,265)\bord1}Maledizione della Morte\N al Sedicesimo Anno
+Dialogue: 0,0:17:18.55,0:17:21.64,Text_Box_Text,Sign,0000,0000,0000,,{\fad(404,1)\pos(423,330)\fs14\fscx80\c&HEEE9E4&}LP per eliminare:
+Dialogue: 0,0:17:22.04,0:17:24.78,Italics,Noir,0000,0000,0000,,Merda... Non ci vado nemmeno vicino.
+Dialogue: 0,0:17:24.78,0:17:27.56,Italics,Noir,0000,0000,0000,,Allora chiederò al Grande Saggio.
+Dialogue: 0,0:17:30.97,0:17:32.47,Italics,Noir,0000,0000,0000,,Rispondimi, Grande Saggio.
+Dialogue: 0,0:17:32.47,0:17:35.53,Italics,Noir,0000,0000,0000,,Qual è il modo più efficace \Nper guadagnare LP al momento?
+Dialogue: 0,0:17:36.36,0:17:37.87,Italics,Great Sage,0000,0000,0000,,La risposta è...
+Dialogue: 0,0:17:37.87,0:17:41.72,Italics,Great Sage,0000,0000,0000,,Metti in fila tutte le ragazze.
+Dialogue: 0,0:17:42.41,0:17:48.26,Italics,Great Sage,0000,0000,0000,,Poi, corri facendo in modo \Nche la tua mano tocchi i loro seni.
+Dialogue: 0,0:17:49.72,0:17:53.11,Italics,Great Sage,0000,0000,0000,,Se riuscirai a toccarli tutti, accumulerai 2.000 LP.
+Dialogue: 0,0:17:53.11,0:17:54.85,Main,Noir,0000,0000,0000,,Come se potessi davvero farlo!
+Dialogue: 0,0:17:54.85,0:17:56.95,Main,Noir,0000,0000,0000,,E gli LP non basterebbero comunque!
+Dialogue: 0,0:17:56.95,0:17:58.93,Main,Noir,0000,0000,0000,,Merda, la testa mi fa malissimo!
+Dialogue: 0,0:18:00.82,0:18:04.24,Main,Noir,0000,0000,0000,,Però ho l'abilità Immunità al Mal di Testa... \NAllora perché...
+Dialogue: 0,0:18:04.24,0:18:07.10,Main,Emma,0000,0000,0000,,Noir, qualcosa non va? Sei pallido.
+Dialogue: 0,0:18:07.56,0:18:09.81,Main,Noir,0000,0000,0000,,Emma... facciamolo...
+Dialogue: 0,0:18:09.81,0:18:11.29,Main,Noir,0000,0000,0000,,Il nostro saluto mattutino!
+Dialogue: 0,0:18:11.29,0:18:14.89,Main,Emma,0000,0000,0000,,Eh? Qui?! M-Ma è troppo imbarazzante...
+Dialogue: 0,0:18:14.89,0:18:17.10,Main,Noir,0000,0000,0000,,Non posso farne a meno. Scusa!
+Dialogue: 0,0:18:25.51,0:18:27.56,Main,Noir,0000,0000,0000,,Per fortuna mi è passato.
+Dialogue: 0,0:18:32.25,0:18:36.11,Main,Elna,0000,0000,0000,,Ti rendi conto di essere a lezione?
+Dialogue: 0,0:18:38.82,0:18:42.47,Main,Noir,0000,0000,0000,,E-Era un'emergenza...
+Dialogue: 0,0:18:42.47,0:18:46.99,Main,Elna,0000,0000,0000,,15 giri intorno all'edificio! \NE farai meglio a darti una mossa!
+Dialogue: 0,0:18:46.99,0:18:49.96,Main,Noir,0000,0000,0000,,Sissignora!
+Dialogue: 0,0:18:57.68,0:18:59.52,Main,Noir,0000,0000,0000,,Salve, Lola.
+Dialogue: 0,0:18:59.52,0:19:01.25,Main,Lola,0000,0000,0000,,N-N-N-N-Noir?!
+Dialogue: 0,0:19:01.25,0:19:02.81,Main,Lola,0000,0000,0000,,Che ci fai qui a quest'ora?!
+Dialogue: 0,0:19:02.81,0:19:05.20,Main,Noir,0000,0000,0000,,Ho iniziato l'accademia oggi.
+Dialogue: 0,0:19:05.20,0:19:07.39,Main,Lola,0000,0000,0000,,Avresti dovuto avvertirmi per tempo!
+Dialogue: 0,0:19:07.39,0:19:09.58,Main,Lola,0000,0000,0000,,Per favore aspetta dieci... anzi, cinque minuti!
+Dialogue: 0,0:19:11.39,0:19:12.93,Main,Receptionist,0000,0000,0000,,È andata a sistemarsi il trucco.
+Dialogue: 0,0:19:12.93,0:19:16.36,Main,Receptionist,0000,0000,0000,,Oggi aveva fatto il minimo\Nperché credeva non saresti venuto.
+Dialogue: 0,0:19:16.86,0:19:19.64,Main,Noir,0000,0000,0000,,In effetti sembrava un po' diversa.
+Dialogue: 0,0:19:19.64,0:19:22.09,Main,Noir,0000,0000,0000,,Ma è molto bella anche senza...
+Dialogue: 0,0:19:22.49,0:19:25.71,Main,Emma,0000,0000,0000,,Noir, lasciamo perdere la signorina cerone \Ne andiamocene.
+Dialogue: 0,0:19:25.71,0:19:29.60,Main,Noir,0000,0000,0000,,Non posso. È la mia responsabile.
+Dialogue: 0,0:19:30.95,0:19:33.03,Main,Emma,0000,0000,0000,,Noir, sei un idiota.
+Dialogue: 0,0:19:35.54,0:19:37.86,Main,Lola,0000,0000,0000,,La Maledizione della Morte al Sedicesimo Anno...
+Dialogue: 0,0:19:38.67,0:19:42.16,Main,lola,0000,0000,0000,,Una potente maledizione che causa la morte.
+Dialogue: 0,0:19:42.74,0:19:46.08,Main,lola,0000,0000,0000,,La vittima è la figlia di un duca?
+Dialogue: 0,0:19:47.53,0:19:51.63,Main,Emma,0000,0000,0000,,La gente pensa che i nobili \Nvivano una vita spensierata.
+Dialogue: 0,0:19:51.63,0:19:56.63,Main,Noir,0000,0000,0000,,Anche se non lo dà a vedere, \N ne avrà passate un sacco.
+Dialogue: 0,0:19:57.74,0:20:01.49,Main,Noir,0000,0000,0000,,Se non annulliamo la maledizione \Nentro la prossima settimana, lei...
+Dialogue: 0,0:20:03.06,0:20:04.46,Main,Lola,0000,0000,0000,,Oh, no...
+Dialogue: 0,0:20:05.09,0:20:09.61,Italics,Noir,0000,0000,0000,,Mi servono 8.000 LP per eliminare \Nla maledizione con Modifica.
+Dialogue: 0,0:20:10.30,0:20:12.64,Italics,Noir,0000,0000,0000,,Non riuscirò ad accumularli in una settimana.
+Dialogue: 0,0:20:14.37,0:20:16.99,Main,Noir,0000,0000,0000,,Tu sai tutto sulle abilità e sugli avventurieri,
+Dialogue: 0,0:20:16.99,0:20:19.15,Main,Noir,0000,0000,0000,,quindi sei la mia ultima speranza, Lola.
+Dialogue: 0,0:20:19.15,0:20:20.99,Main,Noir,0000,0000,0000,,Non c'è niente che possiamo fare?!
+Dialogue: 0,0:20:23.97,0:20:26.00,Main,Lola,0000,0000,0000,,Una cosa ci sarebbe.
+Dialogue: 0,0:20:26.00,0:20:28.37,Main,Lola,0000,0000,0000,,Forse se trovassimo una chierica\N in grado di esorcizzarla...
+Dialogue: 0,0:20:28.37,0:20:30.37,Main,Noir,0000,0000,0000,,Una chierica?
+Dialogue: 0,0:20:30.37,0:20:35.30,Main,Lola,0000,0000,0000,,La chierica Luna. \NÈ mia amica e mi fido delle sue capacità.
+Dialogue: 0,0:20:37.96,0:20:42.87,Main,Lola,0000,0000,0000,,È così popolare che la sua agenda \Nè piena per i prossimi tre mesi.
+Dialogue: 0,0:20:42.87,0:20:44.58,Main,Emma,0000,0000,0000,,Noir, forse lei può aiutarci!
+Dialogue: 0,0:20:44.58,0:20:46.66,Main,Noir,0000,0000,0000,,Sì! Mi sembra perfetta.
+Dialogue: 0,0:20:46.66,0:20:51.30,Main,Lola,0000,0000,0000,,Però accetta molto raramente \Ndi rimuovere le maledizioni.
+Dialogue: 0,0:20:51.30,0:20:53.14,Main,Noir,0000,0000,0000,,Eh? E perché?
+Dialogue: 0,0:20:53.64,0:20:55.40,Main,Lola,0000,0000,0000,,Non conosco i dettagli.
+Dialogue: 0,0:20:55.40,0:20:58.53,Main,Lola,0000,0000,0000,,Ci sarà sicuramente un motivo,
+Dialogue: 0,0:20:58.53,0:21:01.65,Main,Lola,0000,0000,0000,,ma non l'ha mai rivelato nemmeno a me, \Nla sua migliore amica.
+Dialogue: 0,0:21:01.96,0:21:03.87,Main,Emma,0000,0000,0000,,Che dovremmo fare, Noir?
+Dialogue: 0,0:21:08.00,0:21:11.92,Italics,Noir,0000,0000,0000,,Se grazie alle mie abilità riuscissimo \Na sistemare il problema della chierica...
+Dialogue: 0,0:21:12.75,0:21:15.91,Italics,Noir,0000,0000,0000,,Se non lo faccio io, allora chi lo farà?
+Dialogue: 0,0:21:16.83,0:21:21.66,Italics,Noir,0000,0000,0000,,Lei è venuta in mio soccorso prima.
+Dialogue: 0,0:21:26.31,0:21:30.38,Italics,Noir,0000,0000,0000,,Stavolta sarò io a salvare lei.
+Dialogue: 0,0:21:32.13,0:21:33.14,Main,Noir,0000,0000,0000,,Lola!
+Dialogue: 0,0:21:36.21,0:21:38.76,Main,Noir,0000,0000,0000,,Presentami questa chierica, per favore.
+Dialogue: 0,0:23:19.21,0:23:21.64,Main,Noir,0000,0000,0000,,Professoressa Elna, le fanno male le spalle?
+Dialogue: 0,0:23:21.64,0:23:25.63,Main,Elna,0000,0000,0000,,Sì. Chissà se troverò un gentiluomo\N disposto a massaggiarle.
+Dialogue: 0,0:23:25.63,0:23:28.90,Main,Noir,0000,0000,0000,,Le massaggerò le spalle \Nse lei si siederà di nuovo su di me.
+Dialogue: 0,0:23:29.44,0:23:34.04,Main,Elna,0000,0000,0000,,D'accordo. Ma solo se riuscirai a soddisfarmi...
+Dialogue: 0,0:23:36.39,0:23:38.44,Italics,Noir,0000,0000,0000,,Mi basta ottenere l'abilità \NMassaggia Spalle con Creazione!
+Dialogue: 0,0:23:36.39,0:23:40.52,Text_Box_Header,Sign,0000,0000,0000,,{\pos(320,90)\an8\q2\3a&H44&\4a&H44&}Abilità                                                        Massaggia Spalle
+Dialogue: 0,0:23:36.39,0:23:40.52,Text_Box_Text,Sign,0000,0000,0000,,{\c&HF7EEE3&\fscx67\fs14\pos(442,234)}LP Necessari per Creazione:
+Dialogue: 0,0:23:48.73,0:23:50.16,Main,Noir,0000,0000,0000,,Com'è?
+Dialogue: 0,0:23:55.34,0:23:58.08,Main,Noir,0000,0000,0000,,È qui? È questo il punto?
+Dialogue: 0,0:23:58.53,0:24:03.36,Main,Elna,0000,0000,0000,,S-Sì! Proprio lì!
+Dialogue: 0,0:24:05.08,0:24:15.97,Ep_Title,Sign,0000,0000,0000,,{\shad0\bord1\pos(510,320)\t(9499,11083,1 \1c&H000000&)}Riunione in corso, non disturbare!
+Dialogue: 0,0:24:05.10,0:24:09.00,Main Top,Elna,0000,0000,0000,,Sei fantastico! Più forte!
+Dialogue: 0,0:24:09.00,0:24:12.72,Italics Top,Noir,0000,0000,0000,,Dopo il massaggio si è seduta su di me \Ne ho guadagnato un bel po' di LP.
+Dialogue: 0,0:24:17.61,0:24:20.23,Main Top,Lola,0000,0000,0000,,Prossimo episodio, "La purissima chierica".
+Dialogue: 0,0:24:18.26,0:24:21.93,Next_Ep_Title,,0000,0000,0000,,{\fad(655,1)\an1\blur1\bord2\pos(40,305)}#04 {\fscx95}La purissima chierica

@@ -1,0 +1,359 @@
+﻿[Script Info]
+Title: [Erai-raws] Español (España)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_TitleEp,Trebuchet MS,18,&H00ECF6FF,&H000000FF,&H001500BA,&H2C090A5E,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0045,0020,1
+Style: Cart_TitleSerie,Arial,30,&H00612CD4,&H000000FF,&H00FFFFFF,&H00753228,-1,0,0,0,100,100,0,0,1,3,2,8,0010,0010,0080,1
+Style: Cart_Avance,Trebuchet MS,20,&H000E6FE8,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0025,0020,0010,1
+Style: Cart_Ventana,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00232323,&H00232323,-1,0,0,0,100,100,0,0,1,2,2,5,0020,0020,0020,1
+Style: Cart_Descripciones,Trebuchet MS,16,&H00FFFFFF,&H000000FF,&H00363636,&H00363636,-1,0,0,0,100,100,0,0,1,1,1,5,0020,0020,0020,1
+Style: Cart_A_Tre,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,24,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&HFF0000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00303030,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Ari,Arial,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_TitleNext,Trebuchet MS,22,&H00FDF6F7,&H000000FF,&H00000000,&H007F7F7F,0,0,0,0,100,100,2,0,1,2,0,1,0020,0020,0100,1
+Style: Cart_C_TreNo,Trebuchet MS,22,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,8,0020,0020,0020,1
+Style: Cart_Ilus,Trebuchet MS,20,&H00DE60E6,&H000000FF,&H00FFFFFF,&H00DE60E6,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,1
+Style: Cart_C_TreNoShad,Trebuchet MS,22,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.23,0:00:09.82,Gen_Main,Emma,0000,0000,0000,,¡Muy bien!
+Dialogue: 0,0:00:09.98,0:00:13.28,Gen_Main,Emma,0000,0000,0000,,Ahora que por fin\Nhemos pagado nuestras matrículas…
+Dialogue: 0,0:00:14.24,0:00:18.44,Gen_Main,Noir,0000,0000,0000,,Nuestras nuevas vidas van a comenzar\Nen la academia de héroes.
+Dialogue: 0,0:00:18.62,0:00:19.66,Gen_Main,Emma,0000,0000,0000,,Sí.
+Dialogue: 0,0:00:23.21,0:00:24.85,Gen_Main,Emma,0000,0000,0000,,¡Noir, baja la cabeza!
+Dialogue: 0,0:00:25.96,0:00:27.22,Gen_Main,Noir,0000,0000,0000,,Vale…
+Dialogue: 0,0:00:31.67,0:00:33.47,Gen_Main,Noir,0000,0000,0000,,¿Ella también estudiará aquí?
+Dialogue: 0,0:00:33.63,0:00:35.54,Gen_Main,Emma,0000,0000,0000,,¿No lo recuerdas?
+Dialogue: 0,0:00:36.89,0:00:41.02,Gen_Main,Emma,0000,0000,0000,,Estuvo durante el examen.\NEs María Fianna Albert.
+Dialogue: 0,0:00:42.56,0:00:45.98,Gen_Main,Emma,0000,0000,0000,,Es la hija del famoso duque Albert.
+Dialogue: 0,0:00:46.90,0:00:50.73,Gen_Main,Noir,0000,0000,0000,,Un duque… Está entre los nobles\Nde más categoría.
+Dialogue: 0,0:00:50.90,0:00:53.89,Gen_Italics,Noir,0000,0000,0000,,Veré qué tipo de persona es\Ncon Ojo analítico.
+Dialogue: 0,0:01:00.83,0:01:02.98,Gen_Main,Emma,0000,0000,0000,,¿Noir? ¿Sucede algo?
+Dialogue: 0,0:01:03.95,0:01:07.65,Gen_Main,Noir,0000,0000,0000,,Esa chica tiene una maldición.
+Dialogue: 0,0:01:07.79,0:01:11.84,Gen_Main,Noir,0000,0000,0000,,Una maldición que la matará\Nen cuanto cumpla los 16 años.
+Dialogue: 0,0:02:45.01,0:02:52.02,Cart_TitleNext,Sign,0000,0000,0000,,{\fad(530,516)\pos(38,310)\an1\blur1\bord1.5\fscx90}#03 "Compañera afligida"
+Dialogue: 0,0:02:58.44,0:03:01.73,Gen_Main,Noir,0000,0000,0000,,¿Alice? ¿Otra vez aquí?
+Dialogue: 0,0:03:02.03,0:03:04.83,Gen_Main,Alice,0000,0000,0000,,Es que es tu primer día de clase.
+Dialogue: 0,0:03:07.49,0:03:10.74,Gen_Main,Alice,0000,0000,0000,,Sé que te irá de maravilla\Nen la academia de héroes.
+Dialogue: 0,0:03:10.96,0:03:14.68,Gen_Main,Alice,0000,0000,0000,,¡Entraré en la academia el año que viene\Naunque deba escupir sangre!
+Dialogue: 0,0:03:14.84,0:03:18.34,Gen_Main,Noir,0000,0000,0000,,Lo de la sangre es excesivo,\Npero lo aprecio.
+Dialogue: 0,0:03:19.30,0:03:21.27,Gen_Main,Alice,0000,0000,0000,,Déjame abrazarte.
+Dialogue: 0,0:03:22.72,0:03:24.44,Gen_Main,Noir,0000,0000,0000,,¿Alice?
+Dialogue: 0,0:03:24.93,0:03:29.66,Gen_Main,Alice,0000,0000,0000,,Siento que te irás muy lejos\Nen cuanto te suelte.
+Dialogue: 0,0:03:29.81,0:03:31.90,Gen_Main,Noir,0000,0000,0000,,Solo iré a la academia.
+Dialogue: 0,0:03:32.85,0:03:34.74,Gen_Main,Dad,0000,0000,0000,,¡Buenos días, alumno de élite!
+Dialogue: 0,0:03:34.90,0:03:37.17,Gen_Main,Dad,0000,0000,0000,,Ya es de… día.
+Dialogue: 0,0:03:44.49,0:03:48.40,Gen_Main,Dad,0000,0000,0000,,¡¿Qué debería hacer un padre\Nen una situación como esta?!
+Dialogue: 0,0:03:57.34,0:03:59.01,Gen_Main,Emma,0000,0000,0000,,¡Buenos días, Noir!
+Dialogue: 0,0:03:59.24,0:04:00.67,Gen_Main,Noir,0000,0000,0000,,Buenos días, Emma.
+Dialogue: 0,0:04:01.09,0:04:02.68,Gen_Main,Noir,0000,0000,0000,,Cuánto ánimo tan temprano.
+Dialogue: 0,0:04:02.84,0:04:04.59,Gen_Main,Emma,0000,0000,0000,,Es que es nuestro primer día.
+Dialogue: 0,0:04:04.76,0:04:08.67,Gen_Main,Emma,0000,0000,0000,,No hice mucho como bibliotecaria,\Npero esta vez me esforzaré.
+Dialogue: 0,0:04:08.85,0:04:11.52,Gen_Main,Noir,0000,0000,0000,,Sí, estamos en la clase S.
+Dialogue: 0,0:04:12.56,0:04:16.72,Gen_Main,Emma,0000,0000,0000,,A todo esto, ¿nos damos\Nnuestro saludo matutino?
+Dialogue: 0,0:04:16.90,0:04:18.39,Gen_Main,Noir,0000,0000,0000,,Claro.
+Dialogue: 0,0:04:31.12,0:04:33.83,Gen_Main,Emma,0000,0000,0000,,Además, te ayuda a acumular PV…
+Dialogue: 0,0:04:33.87,0:04:37.33,Cart_Ventana,Sign,0000,0000,0000,,{\fad(570,1)\pos(441,115)}Noir Stardia
+Dialogue: 0,0:04:44.76,0:04:47.39,Gen_Main,Emma,0000,0000,0000,,Estoy un poco nerviosa.
+Dialogue: 0,0:04:47.59,0:04:48.60,Gen_Main,Noir,0000,0000,0000,,Y yo…
+Dialogue: 0,0:04:49.05,0:04:53.41,Gen_Italics,Noir,0000,0000,0000,,Tenemos que llevar estas medallas\Nque indican nuestro título nobiliario.
+Dialogue: 0,0:04:53.60,0:04:56.63,Gen_Italics,Noir,0000,0000,0000,,Y eso que la escuela dice\Nque tu título no importa aquí.
+Dialogue: 0,0:05:03.69,0:05:05.93,Gen_Main,Noir and Emma,0000,0000,0000,,Buenos días.
+Dialogue: 0,0:05:06.57,0:05:08.15,Gen_Main,Student walla,0000,0000,0000,,Ese es un baronet.
+Dialogue: 0,0:05:08.32,0:05:09.83,Gen_Main,Student walla,0000,0000,0000,,Un noble de pacotilla.
+Dialogue: 0,0:05:09.99,0:05:11.08,Gen_Main,Student walla,0000,0000,0000,,Pasaré de él.
+Dialogue: 0,0:05:13.08,0:05:14.37,Gen_Main,Allen,0000,0000,0000,,Encantado.
+Dialogue: 0,0:05:14.54,0:05:17.24,Gen_Main,Allen,0000,0000,0000,,Soy Allen, el hijo mayor de los Milanos.
+Dialogue: 0,0:05:17.42,0:05:21.54,Gen_Main,Allen,0000,0000,0000,,Seguro que has oído hablar de nosotros.\NSomos los consejeros del rey.
+Dialogue: 0,0:05:21.71,0:05:23.88,Gen_Main,Emma,0000,0000,0000,,Hola…
+Dialogue: 0,0:05:24.05,0:05:26.20,Gen_Main,Hjorth,0000,0000,0000,,¡Soy Hjorth, de los Boyle!
+Dialogue: 0,0:05:26.68,0:05:28.80,Gen_Main,Hjorth,0000,0000,0000,,¡Eres mi tipo!
+Dialogue: 0,0:05:28.97,0:05:30.45,Gen_Main,Kent,0000,0000,0000,,¡Soy Kent Proix!
+Dialogue: 0,0:05:30.60,0:05:32.77,Gen_Main,Kent,0000,0000,0000,,Mi familia es la cuarta más rica.
+Dialogue: 0,0:05:32.93,0:05:35.04,Gen_Main,Student walla,0000,0000,0000,,-Es guapísima.\N-Y encantadora.
+Dialogue: 0,0:05:35.18,0:05:37.32,Gen_Main,Student walla,0000,0000,0000,,No se parece en nada a ese tío.
+Dialogue: 0,0:05:37.48,0:05:38.94,Gen_Main,Student walla,0000,0000,0000,,Son enormes…
+Dialogue: 0,0:05:39.10,0:05:42.25,Gen_Main,Lenore,0000,0000,0000,,Todos creen que vencí a la Muerte,
+Dialogue: 0,0:05:42.40,0:05:44.13,Gen_Main,Lenore,0000,0000,0000,,así que no me hables.
+Dialogue: 0,0:05:44.28,0:05:45.72,Gen_Main,Noir,0000,0000,0000,,Vale…
+Dialogue: 0,0:05:47.57,0:05:50.96,Gen_Italics,Noir,0000,0000,0000,,Los baronetes son plebeyos\Nque sirvieron al reino
+Dialogue: 0,0:05:51.12,0:05:53.88,Gen_Italics,Noir,0000,0000,0000,,y se les permitió entrar en la nobleza.
+Dialogue: 0,0:05:54.04,0:05:57.54,Gen_Italics,Noir,0000,0000,0000,,La mayoría de los nobles no nos aceptan.
+Dialogue: 0,0:05:58.29,0:06:01.92,Gen_Main,Glasses,0000,0000,0000,,Encantado, soy de los Siphon…
+Dialogue: 0,0:06:03.21,0:06:06.05,Gen_Main,Glasses,0000,0000,0000,,Creo que se me han empañado las gafas.
+Dialogue: 0,0:06:11.14,0:06:13.56,Gen_Main,Maria,0000,0000,0000,,Muy buenos días a todos.
+Dialogue: 0,0:06:17.23,0:06:19.79,Gen_Main,Maria,0000,0000,0000,,Hoy es un día bastante cálido,\N¿no, Amane?
+Dialogue: 0,0:06:19.94,0:06:22.06,Gen_Main,Amane,0000,0000,0000,,Sí, es muy agradable.
+Dialogue: 0,0:06:22.56,0:06:27.49,Gen_Italics,Noir,0000,0000,0000,,María es alguien que se encuentra\Ntotalmente fuera de mi alcance.
+Dialogue: 0,0:06:29.28,0:06:30.28,Gen_Main,Maria,0000,0000,0000,,¡Vaya!
+Dialogue: 0,0:06:31.91,0:06:34.90,Gen_Main,Maria,0000,0000,0000,,Es todo un placer conocerte,\NNoir Stardia.
+Dialogue: 0,0:06:37.54,0:06:39.63,Gen_Main,Hjorth,0000,0000,0000,,¿La señorita María le ha hablado?
+Dialogue: 0,0:06:39.79,0:06:41.88,Gen_Main,Kent,0000,0000,0000,,¿Por qué? ¡Si solo es un baronet!
+Dialogue: 0,0:06:42.33,0:06:44.28,Gen_Main,Maria,0000,0000,0000,,Me honra conocerte.
+Dialogue: 0,0:06:44.84,0:06:47.40,Gen_Main,Maria,0000,0000,0000,,Espero que nos llevemos bien.
+Dialogue: 0,0:06:48.30,0:06:50.38,Gen_Main,Noir,0000,0000,0000,,Igualmente…
+Dialogue: 0,0:06:50.97,0:06:53.56,Gen_Main,Maria,0000,0000,0000,,Muy buenos días a ti también,\NEmma Brightness.
+Dialogue: 0,0:06:53.72,0:06:55.82,Gen_Main,Emma,0000,0000,0000,,¡Muy buenos días!
+Dialogue: 0,0:06:55.97,0:06:57.77,Gen_Main,Noir,0000,0000,0000,,¿Acaso la conoces?
+Dialogue: 0,0:06:58.59,0:07:00.06,Gen_Main,Emma,0000,0000,0000,,¡Eso te pregunto yo!
+Dialogue: 0,0:07:02.35,0:07:04.30,Gen_Italics,Noir,0000,0000,0000,,¿Qué está pasando?
+Dialogue: 0,0:07:05.07,0:07:08.08,Gen_Italics,Noir,0000,0000,0000,,María no parece una mala persona…
+Dialogue: 0,0:07:08.40,0:07:11.46,Gen_Italics,Noir,0000,0000,0000,,¿Por qué tendrá una maldición\Nque la matará a los 16?
+Dialogue: 0,0:07:14.66,0:07:17.91,Gen_Main,Maria,0000,0000,0000,,Volvamos a hablar en otra ocasión.\NNos vemos.
+Dialogue: 0,0:07:18.37,0:07:20.50,Gen_Main,Amane,0000,0000,0000,,Abrid paso, por favor.
+Dialogue: 0,0:07:22.21,0:07:24.43,Gen_Main,Glasses,0000,0000,0000,,Parece que te había subestimado.
+Dialogue: 0,0:07:24.59,0:07:27.39,Gen_Main,Glasses,0000,0000,0000,,No sabía que conocieras\Na la señorita María.
+Dialogue: 0,0:07:27.55,0:07:29.52,Gen_Main,Glasses,0000,0000,0000,,-Soy de los Siphon…\N-No me interesa.
+Dialogue: 0,0:07:31.30,0:07:33.52,Gen_Main,Glasses,0000,0000,0000,,Pero soy de los Siphon…
+Dialogue: 0,0:07:41.60,0:07:46.31,Gen_Main,Elna,0000,0000,0000,,Fui mercenaria antes de ser profesora.\NDesde los 7 años hasta los 24.
+Dialogue: 0,0:07:49.49,0:07:51.35,Gen_Main,Elna,0000,0000,0000,,Me llamo Elna Stongs.
+Dialogue: 0,0:07:51.53,0:07:54.62,Gen_Main,Elna,0000,0000,0000,,Avisadme si queréis\Nque os ponga en forma.
+Dialogue: 0,0:07:54.78,0:07:56.99,Gen_Main,Elna,0000,0000,0000,,Siempre termino mi trabajo.
+Dialogue: 0,0:08:00.12,0:08:05.16,Gen_Main,Elna,0000,0000,0000,,Aunque tampoco pienso dejar\Nque os vayáis hasta quedar satisfecha.
+Dialogue: 0,0:08:07.75,0:08:11.61,Gen_Italics,Noir,0000,0000,0000,,¿Y será nuestra profesora?\NMe pregunto si estaremos bien…
+Dialogue: 0,0:08:11.89,0:08:16.01,Gen_Main,Elna,0000,0000,0000,,Fuera de la capital hay monstruos,\Nbandidos y villanos por doquier.
+Dialogue: 0,0:08:16.97,0:08:20.07,Gen_Main,Elna,0000,0000,0000,,Según vuestra suerte,\Npodríais morir en un instante.
+Dialogue: 0,0:08:20.22,0:08:23.98,Gen_Main,Elna,0000,0000,0000,,Y por eso hoy aprenderéis\Ndefensa personal.
+Dialogue: 0,0:08:24.14,0:08:25.15,Gen_Main,Elna,0000,0000,0000,,Veamos…
+Dialogue: 0,0:08:28.19,0:08:30.65,Gen_Main,Elna,0000,0000,0000,,Noir Stardia, ven.
+Dialogue: 0,0:08:30.82,0:08:32.30,Gen_Main,Noir,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:08:33.53,0:08:37.34,Gen_Main,Elna,0000,0000,0000,,Atácame con tu espada\Ncomo si intentaras matarme.
+Dialogue: 0,0:08:39.49,0:08:41.66,Gen_Main,Noir,0000,0000,0000,,¿Qué? Pero si…
+Dialogue: 0,0:08:41.83,0:08:45.39,Gen_Main,Elna,0000,0000,0000,,Tranquilo, no podrás\Nhacerme ni un rasguño.
+Dialogue: 0,0:08:47.04,0:08:51.70,Gen_Italics,Noir,0000,0000,0000,,Cuánta confianza.\N¿De verdad será tan fuerte?
+Dialogue: 2,0:08:53.30,0:08:55.55,Cart_Ventana,Sign,0000,0000,0000,,{\fs20\pos(378,70)}Elna Stongs Nv.{\fs34}232
+Dialogue: 2,0:08:53.30,0:08:55.55,Cart_Descripciones,Sign,0000,0000,0000,,{\shad2\fs15\pos(290,310)\an4\fscy99}Edad: 24\NOcupación: Instructora\NHabilidades: {\alpha}[Aguante+] [Artes Marciales (Grado A)]\N{\alpha&HFF&}Habilidades: {\alpha}[Espadas de una mano] [Daño penetrante]\N{\alpha&HFF&}Habilidades: {\alpha}[Muro de tierra] [Bala de tierra] [Curar]
+Dialogue: 0,0:08:55.93,0:08:58.25,Gen_Italics,Noir,0000,0000,0000,,¡Es demasiado fuerte!
+Dialogue: 0,0:08:58.43,0:09:00.56,Gen_Italics,Noir,0000,0000,0000,,Mi nivel es apenas 35.
+Dialogue: 0,0:09:01.18,0:09:04.27,Gen_Main,Elna,0000,0000,0000,,¿Y bien? ¿A qué esperas?
+Dialogue: 0,0:09:04.81,0:09:07.48,Gen_Italics,Noir,0000,0000,0000,,¡No puedo contenerme!
+Dialogue: 0,0:09:08.61,0:09:11.90,Gen_Italics,Noir,0000,0000,0000,,¡Tendré que darlo todo\Npara asestarle un golpe!
+Dialogue: 0,0:09:23.04,0:09:27.08,Gen_Main,Elna,0000,0000,0000,,Retroceder.\NEso es lo que aprenderéis hoy.
+Dialogue: 0,0:09:27.25,0:09:29.84,Gen_Italics,Noir,0000,0000,0000,,¡Qué veloz!
+Dialogue: 0,0:09:30.00,0:09:34.34,Gen_Main,Elna,0000,0000,0000,,Ahora te tocará defender.\NIntenta imitar lo que acabo de hacer.
+Dialogue: 0,0:09:35.34,0:09:38.09,Gen_Main,Noir,0000,0000,0000,,Aunque me lo pida…
+Dialogue: 0,0:09:38.26,0:09:42.54,Gen_Main,Elna,0000,0000,0000,,Es sencillo, solo debes atraer\Nun ataque mío y retroceder.
+Dialogue: 0,0:09:42.68,0:09:44.35,Gen_Main,Elna,0000,0000,0000,,Bueno, allá voy.
+Dialogue: 0,0:09:44.52,0:09:46.19,Gen_Italics,Noir,0000,0000,0000,,¡Bien!
+Dialogue: 0,0:09:46.35,0:09:50.06,Gen_Italics,Noir,0000,0000,0000,,He peleado bastantes veces\Nen la mazmorra oculta. ¡Estaré bien!
+Dialogue: 0,0:09:57.36,0:09:59.02,Gen_Main,Emma,0000,0000,0000,,¡Noir!
+Dialogue: 0,0:09:59.20,0:10:00.95,Gen_Main,Emma,0000,0000,0000,,¿Estás bien, Noir?
+Dialogue: 0,0:10:01.45,0:10:04.95,Gen_Main,Elna,0000,0000,0000,,Tranquila. Quedará como nuevo con Curar.
+Dialogue: 0,0:10:05.12,0:10:07.32,Gen_Main,Elna,0000,0000,0000,,Así podrá intentarlo de nuevo.
+Dialogue: 0,0:10:07.96,0:10:09.86,Gen_Main,Kent,0000,0000,0000,,¡Es una instructora demoníaca!
+Dialogue: 0,0:10:10.04,0:10:11.60,Gen_Main,Hjorth,0000,0000,0000,,¡No, es un demonio sin más!
+Dialogue: 0,0:10:16.76,0:10:18.02,Gen_Main,Elna,0000,0000,0000,,Veamos…
+Dialogue: 0,0:10:18.59,0:10:21.85,Gen_Main,Elna,0000,0000,0000,,Si usas Retroceder con éxito,\Nte daré un premio.
+Dialogue: 0,0:10:22.35,0:10:23.85,Gen_Main,Noir,0000,0000,0000,,¿Un premio?
+Dialogue: 0,0:10:24.27,0:10:27.91,Gen_Main,Elna,0000,0000,0000,,Si consigues eludir un solo ataque mío,
+Dialogue: 0,0:10:28.06,0:10:33.51,Gen_Main,Elna,0000,0000,0000,,te haré algo que seguro que disfrutarás.
+Dialogue: 0,0:10:36.28,0:10:37.76,Gen_Main,Hjorth,0000,0000,0000,,¡Fracasa!
+Dialogue: 0,0:10:37.90,0:10:40.83,Gen_Main,Kent,0000,0000,0000,,¡Yo quiero el premio!
+Dialogue: 0,0:10:40.99,0:10:43.55,Gen_Main,Guy,0000,0000,0000,,¡Luego voy yo!
+Dialogue: 0,0:10:45.29,0:10:48.28,Gen_Main,Lenore,0000,0000,0000,,Los hombres son de lo que no hay.
+Dialogue: 0,0:10:49.04,0:10:51.04,Gen_Italics,Noir,0000,0000,0000,,No quiero seguir sufriendo.
+Dialogue: 0,0:10:51.63,0:10:54.32,Gen_Italics,Noir,0000,0000,0000,,¿Y si creara Artes marciales C?
+Dialogue: 2,0:10:54.63,0:10:57.84,Cart_Ventana,Sign,0000,0000,0000,,{\fad(399,225)\an8\4c&H4C4129&\pos(435,147)}Artes Marciales C
+Dialogue: 2,0:10:54.84,0:10:57.84,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(232,225)\an4\fs12\an8\pos(439,183)}PV necesarios para crear:
+Dialogue: 2,0:10:55.05,0:10:57.84,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(229,225)\an4\fs12\fscx90\pos(468,289)}Restantes
+Dialogue: 0,0:10:55.09,0:10:56.64,Gen_Italics,Noir,0000,0000,0000,,¡Qué caro!
+Dialogue: 0,0:10:56.80,0:10:58.91,Gen_Italics,Noir,0000,0000,0000,,¿Y si mejorara Retroceder?
+Dialogue: 2,0:10:57.84,0:11:02.55,Cart_Ventana,Sign,0000,0000,0000,,{\fad(275,1)\pos(440,80)\an8\3c&H2D231F&\4c&H524826&}Mejorar Retroceder
+Dialogue: 2,0:10:58.34,0:11:02.55,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(232,1)\an4\fs12\an8\pos(439,167)}PV necesarios para crear:
+Dialogue: 2,0:10:58.42,0:11:02.55,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(229,225)\an4\fs12\fscx90\pos(465,259)}Restantes
+Dialogue: 0,0:11:00.72,0:11:02.55,Gen_Italics,Noir,0000,0000,0000,,¡Es mucho más rentable!
+Dialogue: 0,0:11:03.47,0:11:05.82,Gen_Main,Noir,0000,0000,0000,,-¡Un momen…!\N-¡No te embobes!
+Dialogue: 0,0:11:20.15,0:11:23.99,Gen_Main,Noir,0000,0000,0000,,Dijo que solo debía\Nusar Retroceder, ¿no?
+Dialogue: 0,0:11:24.46,0:11:27.04,Gen_Main,Noir,0000,0000,0000,,Espero su recompensa.
+Dialogue: 0,0:11:31.67,0:11:34.21,Gen_Main,Emma,0000,0000,0000,,{\i1}La mazmorra oculta\Na la que solo yo puedo entrar{\i0}.
+Dialogue: 0,0:11:39.80,0:11:41.01,Gen_Italics,Noir,0000,0000,0000,,La profesora Elna.
+Dialogue: 0,0:11:42.01,0:11:45.51,Gen_Italics,Noir,0000,0000,0000,,La entrenaron como mercenaria\Ndesde muy temprana edad.
+Dialogue: 0,0:11:45.68,0:11:48.51,Gen_Italics,Noir,0000,0000,0000,,Es una mujer seria y madura.
+Dialogue: 0,0:11:49.68,0:11:52.45,Gen_Italics,Noir,0000,0000,0000,,Y el premio que recibí de ella fue…
+Dialogue: 0,0:11:56.61,0:11:58.61,Gen_Main,Elna,0000,0000,0000,,¿Y bien? ¿Qué te parece?
+Dialogue: 0,0:11:58.78,0:12:02.18,Gen_Main,Elna,0000,0000,0000,,Solían elogiar mi trasero\Ncuando era mercenaria.
+Dialogue: 0,0:12:08.20,0:12:11.22,Gen_Main,Allen,0000,0000,0000,,¡No puedo creer\Nque lograra usar Retroceder!
+Dialogue: 0,0:12:11.37,0:12:13.81,Gen_Main,Hjorth,0000,0000,0000,,Sabes que es un buen premio, ¿no?
+Dialogue: 0,0:12:13.96,0:12:16.21,Gen_Main,Kent,0000,0000,0000,,¡Al menos disfrútalo!
+Dialogue: 0,0:12:17.79,0:12:19.12,Gen_Main,Lenore,0000,0000,0000,,Sois unos idiotas.
+Dialogue: 0,0:12:23.01,0:12:24.39,Gen_Main,Emma,0000,0000,0000,,Noir…
+Dialogue: 0,0:12:30.06,0:12:32.42,Gen_Main,Elna,0000,0000,0000,,Dime, ¿cómo te sientes?
+Dialogue: 0,0:12:32.60,0:12:35.43,Gen_Main,Noir,0000,0000,0000,,Me cuesta respirar…
+Dialogue: 0,0:12:35.60,0:12:38.20,Gen_Main,Elna,0000,0000,0000,,¿Cómo dices? ¿Que estás loquito por mí?
+Dialogue: 0,0:12:38.36,0:12:40.94,Gen_Main,Noir,0000,0000,0000,,¡No! Su trasero pesa mucho…
+Dialogue: 0,0:12:41.11,0:12:42.32,Gen_Main,Elna,0000,0000,0000,,¡¿Qué has dicho?!
+Dialogue: 0,0:12:45.95,0:12:49.11,Gen_Main,Elna,0000,0000,0000,,Muy bien, se acabó\Nel descanso y la recompensa.
+Dialogue: 0,0:12:50.62,0:12:52.35,Gen_Main,Allen,0000,0000,0000,,¿Qué te ha parecido?
+Dialogue: 0,0:12:52.60,0:12:54.60,Gen_Main,Allen,0000,0000,0000,,¿Era blandito? ¿Qué tal olía?
+Dialogue: 0,0:12:54.75,0:12:56.35,Gen_Main,Kent,0000,0000,0000,,Qué envidia.
+Dialogue: 0,0:12:56.50,0:12:58.79,Gen_Main,Hjorth,0000,0000,0000,,¡Yo también quiero!
+Dialogue: 0,0:12:59.38,0:13:01.59,Gen_Main,Elna,0000,0000,0000,,Silencio.
+Dialogue: 0,0:13:04.34,0:13:06.08,Gen_Main,Emma,0000,0000,0000,,Noir, ¿estás bien?
+Dialogue: 0,0:13:06.26,0:13:09.10,Gen_Main,Emma,0000,0000,0000,,¡No me digas que ahora\Nte gustan los traseros!
+Dialogue: 0,0:13:09.26,0:13:10.93,Gen_Main,Noir,0000,0000,0000,,Claro que no…
+Dialogue: 0,0:13:11.31,0:13:13.19,Gen_Main,Noir,0000,0000,0000,,No ha sido una buena experiencia.
+Dialogue: 0,0:13:13.35,0:13:16.17,Gen_Italics,Noir,0000,0000,0000,,Aunque admito que he ganado 400 PV.
+Dialogue: 0,0:13:16.85,0:13:20.30,Gen_Italics,Noir,0000,0000,0000,,Podría pedírselo de nuevo algún día.
+Dialogue: 0,0:13:21.98,0:13:24.45,Gen_Main,Elna,0000,0000,0000,,Pasemos a la siguiente sesión.
+Dialogue: 0,0:13:24.61,0:13:26.28,Gen_Main,Elna,0000,0000,0000,,Formad parejas.
+Dialogue: 0,0:13:29.16,0:13:31.56,Gen_Main,Emma,0000,0000,0000,,¡Noir, trabajemos juntos!
+Dialogue: 0,0:13:31.83,0:13:32.79,Gen_Main,Noir,0000,0000,0000,,Claro.
+Dialogue: 0,0:13:32.95,0:13:34.53,Gen_Main,Elna,0000,0000,0000,,Eh, vosotros dos.
+Dialogue: 0,0:13:34.70,0:13:36.51,Gen_Main,Elna,0000,0000,0000,,No podéis formar pareja.
+Dialogue: 0,0:13:36.67,0:13:38.78,Gen_Main,Emma,0000,0000,0000,,¿Qué? ¿Por qué no?
+Dialogue: 0,0:13:38.96,0:13:40.42,Gen_Main,Elna,0000,0000,0000,,Sois novios, ¿no?
+Dialogue: 0,0:13:40.76,0:13:42.98,Gen_Main,Elna,0000,0000,0000,,No es compatible con el ejercicio.
+Dialogue: 0,0:13:43.13,0:13:45.42,Gen_Main,Noir,0000,0000,0000,,No, no somos novios.
+Dialogue: 0,0:13:45.59,0:13:47.29,Gen_Main,Elna,0000,0000,0000,,Vaya, ¿en serio?
+Dialogue: 0,0:13:47.47,0:13:49.61,Gen_Main,Emma,0000,0000,0000,,Sí, todavía no.
+Dialogue: 0,0:13:49.74,0:13:53.43,Gen_Main,Emma,0000,0000,0000,,Solo somos amigos de la infancia\Nque se conocen desde siempre.
+Dialogue: 0,0:13:53.97,0:13:55.78,Gen_Main,Elna,0000,0000,0000,,Aun así, no podéis.
+Dialogue: 0,0:13:56.18,0:13:59.40,Gen_Main,Elna,0000,0000,0000,,María y Amane,\Ntampoco podéis formar pareja.
+Dialogue: 0,0:14:00.77,0:14:03.16,Gen_Main,Elna,0000,0000,0000,,Eres la asistente de María, ¿no?
+Dialogue: 0,0:14:03.32,0:14:04.61,Gen_Main,Amane,0000,0000,0000,,Así es…
+Dialogue: 0,0:14:05.19,0:14:08.28,Gen_Main,Elna,0000,0000,0000,,Guárdame el rencor que quieras,\Npero no te voy a dejar.
+Dialogue: 0,0:14:10.20,0:14:11.74,Gen_Main,Allen,0000,0000,0000,,En ese caso, María…
+Dialogue: 0,0:14:12.91,0:14:15.25,Gen_Main,Allen,0000,0000,0000,,¿Quieres trabajar conmigo?
+Dialogue: 0,0:14:16.62,0:14:18.77,Gen_Main,Allen,0000,0000,0000,,Nuestros padres son duques.
+Dialogue: 0,0:14:19.17,0:14:23.45,Gen_Main,Allen,0000,0000,0000,,Trabajemos juntos\Ncomo los honorables nobles que somos.
+Dialogue: 0,0:14:25.58,0:14:27.22,Gen_Main,Maria,0000,0000,0000,,Con el debido respeto, me niego.
+Dialogue: 0,0:14:27.38,0:14:28.43,Gen_Main,Allen,0000,0000,0000,,¿Qué…?
+Dialogue: 0,0:14:29.34,0:14:33.69,Gen_Main,Maria,0000,0000,0000,,Nací como hija de un duque\Npor meros azares del destino.
+Dialogue: 0,0:14:34.39,0:14:40.00,Gen_Main,Maria,0000,0000,0000,,Y soy consciente de cuánto debo trabajar\Ncada día para ser digna de mi estatus.
+Dialogue: 0,0:14:42.61,0:14:46.86,Gen_Main,Maria,0000,0000,0000,,Y respeto a los baronetes\Nde todo corazón.
+Dialogue: 0,0:14:47.94,0:14:51.64,Gen_Main,Maria,0000,0000,0000,,Porque a pesar del hecho\Nde haber sido plebeyos,
+Dialogue: 0,0:14:51.85,0:14:54.84,Gen_Main,Maria,0000,0000,0000,,arriesgaron la vida por el reino\Ncomo guerreros.
+Dialogue: 0,0:15:00.58,0:15:06.33,Gen_Main,Maria,0000,0000,0000,,En vez de trabajar con un noble\Nque se jacte de su título superior,
+Dialogue: 0,0:15:06.67,0:15:08.46,Gen_Main,Maria,0000,0000,0000,,prefiero hacerlo con un baronet.
+Dialogue: 0,0:15:13.68,0:15:17.67,Gen_Main,Maria,0000,0000,0000,,Noir, ¿trabajamos juntos?
+Dialogue: 0,0:15:18.64,0:15:20.32,Gen_Main,Noir,0000,0000,0000,,Sería todo un honor.
+Dialogue: 0,0:15:31.57,0:15:33.22,Gen_Main,Amane,0000,0000,0000,,¿No os parece que…?
+Dialogue: 0,0:15:33.37,0:15:36.99,Gen_Main,Emma,0000,0000,0000,,¡Hay muy buena química entre esos dos!
+Dialogue: 0,0:15:38.12,0:15:39.83,Gen_Main,Alice,0000,0000,0000,,¡¿Otra chica nueva?!
+Dialogue: 0,0:15:42.67,0:15:43.82,Gen_Main,,0000,0000,0000,,Lo…
+Dialogue: 0,0:15:45.79,0:15:47.64,Gen_Main,Alice,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:15:52.26,0:15:55.56,Gen_Main,Elna,0000,0000,0000,,Bien, ahora aprenderéis Defensa Pasiva.
+Dialogue: 0,0:15:56.05,0:15:57.85,Gen_Main,Elna,0000,0000,0000,,Lanzad a vuestros compañeros.
+Dialogue: 0,0:15:58.64,0:16:00.56,Gen_Main,Noir,0000,0000,0000,,Puedes lanzarme primero.
+Dialogue: 0,0:16:00.73,0:16:03.10,Gen_Main,Maria,0000,0000,0000,,Sí, de acuerdo.
+Dialogue: 0,0:16:06.77,0:16:08.57,Gen_Italics,Noir,0000,0000,0000,,En cuanto a Defensa Pasiva…
+Dialogue: 0,0:16:08.61,0:16:14.07,Cart_Ventana,Sign,0000,0000,0000,,{\fad(441,1)\an8\q2\3a&H44&\4a&H44&\fs28\pos(152,90)}Habilidad
+Dialogue: 0,0:16:08.61,0:16:14.07,Cart_Ventana,Sign,0000,0000,0000,,{\fad(441,1)\an8\q2\3a&H44&\4a&H44&\fs28\pos(493,90)}Defensa Pasiva
+Dialogue: 0,0:16:09.32,0:16:14.07,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(273,1)\an4\pos(420,290)\c&HF7EEE3&\fscx80\fs14}PV necesarios para crear:
+Dialogue: 0,0:16:09.78,0:16:10.82,Gen_Italics,Noir,0000,0000,0000,,¡Qué barato!
+Dialogue: 0,0:16:10.99,0:16:14.07,Gen_Italics,Noir,0000,0000,0000,,¡Seguro que es por lo pasivo\Nque he sido toda mi vida!
+Dialogue: 0,0:16:17.45,0:16:19.20,Gen_Main,Maria,0000,0000,0000,,Voy a comenzar.
+Dialogue: 0,0:16:22.29,0:16:23.96,Gen_Italics,Noir,0000,0000,0000,,¡Bien, ha funcionado!
+Dialogue: 0,0:16:32.30,0:16:34.13,Gen_Main,Noir,0000,0000,0000,,¡No es lo que crees!
+Dialogue: 0,0:16:34.33,0:16:35.84,Gen_Main,Noir,0000,0000,0000,,¡Soy inocente!
+Dialogue: 0,0:16:36.51,0:16:38.41,Gen_Main,Amane,0000,0000,0000,,No te muevas, Stardia.
+Dialogue: 0,0:16:39.72,0:16:40.95,Gen_Main,Amane,0000,0000,0000,,¿María?
+Dialogue: 0,0:16:41.10,0:16:45.73,Gen_Main,Maria,0000,0000,0000,,Me encuentro bien,\Nsolo me falta un poco el aire.
+Dialogue: 0,0:16:48.40,0:16:50.52,Gen_Main,Amane,0000,0000,0000,,Le dije que evitara los excesos.
+Dialogue: 0,0:16:51.40,0:16:53.74,Gen_Italics,Noir,0000,0000,0000,,¿No será por su maldición?
+Dialogue: 0,0:16:53.90,0:16:55.63,Gen_Main,Elna,0000,0000,0000,,Haz que descanse un rato.
+Dialogue: 0,0:16:55.78,0:16:57.93,Gen_Main,Elna,0000,0000,0000,,Iré a verla cuando acabe la lección.
+Dialogue: 0,0:16:58.07,0:16:59.37,Gen_Main,Amane,0000,0000,0000,,Bien.
+Dialogue: 0,0:17:08.54,0:17:10.48,Gen_Italics,Noir,0000,0000,0000,,La Maldición de los Dieciséis.
+Dialogue: 0,0:17:10.80,0:17:13.74,Gen_Italics,Noir,0000,0000,0000,,El afectado se retuerce del dolor\Nen intervalos fijos.
+Dialogue: 0,0:17:13.88,0:17:16.68,Gen_Main,Noir,0000,0000,0000,,Es una habilidad que causa\Nla muerte a los 16 años.
+Dialogue: 0,0:17:16.84,0:17:18.91,Gen_Italics,Noir,0000,0000,0000,,Si usara Editar para eliminarla…
+Dialogue: 0,0:17:18.55,0:17:21.64,Cart_Ventana,Sign,0000,0000,0000,,{\an4\fad(404,1)\fs18\bord1\pos(424,258)}Maldición de los Dieciséis
+Dialogue: 0,0:17:18.55,0:17:21.64,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(404,1)\an4\fs14\c&HEEE9E4&\pos(423,332)}PV necesarios para eliminar:
+Dialogue: 0,0:17:22.14,0:17:24.78,Gen_Italics,Noir,0000,0000,0000,,Es inútil. No tengo suficientes puntos.
+Dialogue: 0,0:17:24.93,0:17:27.56,Gen_Italics,Noir,0000,0000,0000,,Tendré que recurrir a Gran sabio.
+Dialogue: 0,0:17:30.90,0:17:32.47,Gen_Italics,Noir,0000,0000,0000,,Respóndeme, Gran sabio.
+Dialogue: 0,0:17:32.65,0:17:35.53,Gen_Italics,Noir,0000,0000,0000,,¿Qué es lo más eficiente\Npara ganar PV ahora mismo?
+Dialogue: 0,0:17:36.45,0:17:37.87,Gen_Main,Great Sage,0000,0000,0000,,La respuesta es…
+Dialogue: 0,0:17:38.03,0:17:41.72,Gen_Main,Great Sage,0000,0000,0000,,Hacer que todas las chicas\Nformen una fila.
+Dialogue: 0,0:17:42.49,0:17:48.26,Gen_Main,Great Sage,0000,0000,0000,,A continuación, debes correr junto\Na ellas mientras les tocas el pecho.
+Dialogue: 0,0:17:49.79,0:17:53.11,Gen_Main,Great Sage,0000,0000,0000,,Si se lo tocas a todas, ganarás 2000 PV.
+Dialogue: 0,0:17:53.25,0:17:56.95,Gen_Main,Noir,0000,0000,0000,,¡Jamás podría!\N¡Y tampoco serían PV suficientes!
+Dialogue: 0,0:17:57.09,0:17:58.93,Gen_Main,Noir,0000,0000,0000,,¡Qué dolor de cabeza!
+Dialogue: 0,0:18:00.89,0:18:04.24,Gen_Main,Noir,0000,0000,0000,,¿Por qué me pasa esto\Nsi tengo Resistencia a la jaqueca?
+Dialogue: 0,0:18:04.39,0:18:07.10,Gen_Main,Emma,0000,0000,0000,,Noir, ¿qué te pasa? Estás pálido.
+Dialogue: 0,0:18:07.64,0:18:09.81,Gen_Main,Noir,0000,0000,0000,,Emma… El saludo…
+Dialogue: 0,0:18:09.98,0:18:11.29,Gen_Main,Noir,0000,0000,0000,,¡El saludo matutino!
+Dialogue: 0,0:18:12.34,0:18:14.89,Gen_Main,Emma,0000,0000,0000,,¡¿Aquí mismo?! Es muy vergonzoso…
+Dialogue: 0,0:18:15.07,0:18:17.10,Gen_Main,Noir,0000,0000,0000,,¡No puedo más! ¡Perdón!
+Dialogue: 0,0:18:25.58,0:18:27.56,Gen_Main,Noir,0000,0000,0000,,Qué alivio…
+Dialogue: 0,0:18:32.42,0:18:36.11,Gen_Main,Elna,0000,0000,0000,,Sabes que estás en plena clase, ¿no?
+Dialogue: 0,0:18:38.88,0:18:42.47,Gen_Main,Noir,0000,0000,0000,,Se trataba de una emergencia…
+Dialogue: 0,0:18:42.64,0:18:46.99,Gen_Main,Elna,0000,0000,0000,,¡Quince vueltas a la academia!\N¡Ponte a correr, mocoso!
+Dialogue: 0,0:18:47.14,0:18:48.73,Gen_Main,Noir,0000,0000,0000,,¡Voy!
+Dialogue: 0,0:18:57.78,0:18:59.52,Gen_Main,Noir,0000,0000,0000,,Hola, Lola.
+Dialogue: 0,0:18:59.70,0:19:02.81,Gen_Main,Lola,0000,0000,0000,,¡¿Noir?! ¿Qué haces aquí a estas horas?
+Dialogue: 0,0:19:02.99,0:19:05.20,Gen_Main,Noir,0000,0000,0000,,Hoy era mi primer día de clase.
+Dialogue: 0,0:19:05.37,0:19:07.39,Gen_Main,Lola,0000,0000,0000,,¡Avísame con antelación!
+Dialogue: 0,0:19:07.54,0:19:09.58,Gen_Main,Lola,0000,0000,0000,,Dame diez, no… ¡15 minutos!
+Dialogue: 0,0:19:11.46,0:19:12.93,Gen_Main,Receptionist,0000,0000,0000,,Se arregla el maquillaje.
+Dialogue: 0,0:19:13.08,0:19:16.36,Gen_Main,Receptionist,0000,0000,0000,,No se ha esmerado tanto\Nporque no esperaba verte hoy.
+Dialogue: 0,0:19:16.92,0:19:19.59,Gen_Main,Noir,0000,0000,0000,,No he notado mucha diferencia.
+Dialogue: 0,0:19:19.80,0:19:22.09,Gen_Main,Noir,0000,0000,0000,,No creo que necesite maquillarse…
+Dialogue: 0,0:19:22.55,0:19:25.71,Gen_Main,Emma,0000,0000,0000,,Noir, pasa de esa vanidosa y vámonos.
+Dialogue: 0,0:19:25.89,0:19:29.60,Gen_Main,Noir,0000,0000,0000,,No puedo, ella está a cargo de mí.
+Dialogue: 0,0:19:31.02,0:19:33.03,Gen_Main,Emma,0000,0000,0000,,Noir, eres un tonto.
+Dialogue: 0,0:19:35.61,0:19:37.86,Gen_Main,Lola,0000,0000,0000,,La Maldición de los Dieciséis…
+Dialogue: 0,0:19:38.74,0:19:42.16,Gen_Main,lola,0000,0000,0000,,Es una poderosa habilidad maldita\Nque causa la muerte…
+Dialogue: 0,0:19:42.82,0:19:46.08,Gen_Main,lola,0000,0000,0000,,¿Y la tiene la hija de un duque?
+Dialogue: 0,0:19:47.62,0:19:51.63,Gen_Main,Emma,0000,0000,0000,,La gente suele pensar que los nobles\Nviven sin ningún problema, pero…
+Dialogue: 0,0:19:51.79,0:19:56.63,Gen_Main,Noir,0000,0000,0000,,Aunque no lo demuestra,\Nseguro que ha sufrido mucho.
+Dialogue: 0,0:19:57.84,0:20:01.49,Gen_Main,Noir,0000,0000,0000,,Si no anulamos la maldición\Nantes de la semana que viene…
+Dialogue: 0,0:20:03.13,0:20:04.46,Gen_Main,Lola,0000,0000,0000,,Qué mal…
+Dialogue: 0,0:20:05.26,0:20:09.61,Gen_Italics,Noir,0000,0000,0000,,Necesito 8000 PV para eliminar\Nla habilidad con Editar.
+Dialogue: 0,0:20:10.23,0:20:12.64,Gen_Italics,Noir,0000,0000,0000,,No podré conseguir tantos en una semana.
+Dialogue: 0,0:20:14.44,0:20:16.99,Gen_Main,Noir,0000,0000,0000,,Sabes mucho\Nsobre habilidades y aventureros,
+Dialogue: 0,0:20:17.15,0:20:19.15,Gen_Main,Noir,0000,0000,0000,,dependo totalmente de ti.
+Dialogue: 0,0:20:19.32,0:20:20.99,Gen_Main,Noir,0000,0000,0000,,¿No se puede hacer nada?
+Dialogue: 0,0:20:24.07,0:20:26.00,Gen_Main,Lola,0000,0000,0000,,Podría haber un método.
+Dialogue: 0,0:20:26.16,0:20:28.37,Gen_Main,Lola,0000,0000,0000,,Con una clériga que expulse el mal…
+Dialogue: 0,0:20:28.53,0:20:30.37,Gen_Main,Noir,0000,0000,0000,,¿Una clériga?
+Dialogue: 0,0:20:30.54,0:20:35.30,Gen_Main,Lola,0000,0000,0000,,La clériga Luna. Es amiga mía\Ny doy fe de su aptitud.
+Dialogue: 0,0:20:38.04,0:20:42.87,Gen_Main,Lola,0000,0000,0000,,Es tan popular que su agenda\Nse llena durante trimestres enteros.
+Dialogue: 0,0:20:43.05,0:20:44.58,Gen_Main,Emma,0000,0000,0000,,¡Noir, podría ayudarnos!
+Dialogue: 0,0:20:44.76,0:20:46.66,Gen_Main,Noir,0000,0000,0000,,Sí, seguro que sí.
+Dialogue: 0,0:20:46.80,0:20:51.30,Gen_Main,Lola,0000,0000,0000,,Pero no suele aceptar trabajos\Npara eliminar habilidades malditas.
+Dialogue: 0,0:20:51.47,0:20:53.14,Gen_Main,Noir,0000,0000,0000,,¿Eh? ¿Por qué no?
+Dialogue: 0,0:20:53.73,0:20:55.40,Gen_Main,Lola,0000,0000,0000,,Desconozco los detalles.
+Dialogue: 0,0:20:55.56,0:20:58.53,Gen_Main,Lola,0000,0000,0000,,Es probable que tenga sus motivos,
+Dialogue: 0,0:20:58.69,0:21:01.65,Gen_Main,Lola,0000,0000,0000,,pero no me los ha dicho\Naunque soy su mejor amiga.
+Dialogue: 0,0:21:02.03,0:21:03.87,Gen_Main,Emma,0000,0000,0000,,¿Qué hacemos, Noir?
+Dialogue: 0,0:21:08.07,0:21:11.92,Gen_Italics,Noir,0000,0000,0000,,Si podemos solucionar el problema\Nde la clériga con mis habilidades…
+Dialogue: 0,0:21:12.83,0:21:15.91,Gen_Italics,Noir,0000,0000,0000,,Si no lo hago yo, ¿quién lo hará?
+Dialogue: 0,0:21:16.96,0:21:21.66,Gen_Italics,Noir,0000,0000,0000,,Ella me ayudó de forma desinteresada.
+Dialogue: 0,0:21:26.38,0:21:30.38,Gen_Italics,Noir,0000,0000,0000,,Esta vez quiero ser yo quien la ayude.
+Dialogue: 0,0:21:32.13,0:21:33.14,Gen_Main,Noir,0000,0000,0000,,¡Lola!
+Dialogue: 0,0:21:36.31,0:21:38.76,Gen_Main,Noir,0000,0000,0000,,Preséntame a la clériga, por favor.
+Dialogue: 0,0:23:19.12,0:23:21.64,Gen_Main,Noir,0000,0000,0000,,Profesora Elna,\N¿le molestan los hombros?
+Dialogue: 0,0:23:21.79,0:23:25.63,Gen_Main,Elna,0000,0000,0000,,Sí, me pregunto si habrá algún caballero\Ndispuesto a darme un masaje.
+Dialogue: 0,0:23:25.80,0:23:28.90,Gen_Main,Noir,0000,0000,0000,,Le daré un masaje\Nsi vuelve a sentarse sobre mí.
+Dialogue: 0,0:23:29.51,0:23:34.04,Gen_Main,Elna,0000,0000,0000,,De acuerdo.\NPero solo si me dejas conforme…
+Dialogue: 0,0:23:36.39,0:23:40.52,Cart_Ventana,Sign,0000,0000,0000,,{\an8\q2\3a&H44&\4a&H44&\fs28\pos(121,90)}Habilidad
+Dialogue: 0,0:23:36.39,0:23:40.52,Cart_Ventana,Sign,0000,0000,0000,,{\an8\q2\3a&H44&\4a&H44&\fs28\pos(506,90)}Masaje de Hombros
+Dialogue: 0,0:23:36.39,0:23:40.52,Cart_Descripciones,Sign,0000,0000,0000,,{\c&HF7EEE3&\an4\fscx75\fs14\pos(442,234)}PV necesarios para crear:
+Dialogue: 0,0:23:36.56,0:23:38.44,Gen_Italics,Noir,0000,0000,0000,,Crear: Masaje de hombros.
+Dialogue: 0,0:23:48.90,0:23:50.16,Gen_Main,Noir,0000,0000,0000,,¿Qué tal?
+Dialogue: 0,0:23:55.41,0:23:58.08,Gen_Main,Noir,0000,0000,0000,,¿Aquí? ¿Ahí está bien?
+Dialogue: 0,0:23:58.62,0:24:03.36,Gen_Main,Elna,0000,0000,0000,,¡Sí! ¡Justo ahí!
+Dialogue: 0,0:24:05.08,0:24:16.14,Cart_A_Tre,Sign,0000,0000,0000,,{\shad0\blur1\bord1\t(9499,11083,1 \1c&H000000&)}¡En reunión, no entrar!
+Dialogue: 0,0:24:05.25,0:24:09.00,Gen_Main,Elna,0000,0000,0000,,¡Eres demasiado blando!\N¡Hazlo más fuerte!
+Dialogue: 0,0:24:09.17,0:24:12.72,Gen_Italics,Noir,0000,0000,0000,,Después de eso, se sentó un buen rato\Nencima y gané bastantes PV.
+Dialogue: 0,0:24:17.68,0:24:20.23,Gen_Main,Lola,0000,0000,0000,,Próximamente: "La clériga pura".
+Dialogue: 0,0:24:18.26,0:24:21.93,Cart_TitleNext,,0000,0000,0000,,{\fad(655,1)\an1\blur1\bord2\pos(40,305)}#04 {\fscx95}"La clériga pura"
+Dialogue: 0,0:24:21.93,0:24:26.94,Cart_C_Tre,Sign,0000,0000,0000,,{\an1\c&H72BEDE&\shad0\4c&HB5C7AF&\blur1\fs18\pos(92,313)\3c&HDCFFFF&}Ilustración: maruma
